@@ -1,0 +1,659 @@
+[
+  {
+    "question": "Se potessi vivere dentro un film per un giorno, quale sarebbe?",
+    "answers": [
+      "Un thriller ad alta tensione",
+      "Una commedia spensierata",
+      "Un film d'azione esplosivo",
+      "Un dramma profondo e riflessivo"
+    ]
+  },
+  {
+    "question": "Cosa deve assolutamente avere un film per piacerti?",
+    "answers": [
+      "Personaggi incredibili",
+      "Colpi di scena imprevedibili",
+      "Un'ambientazione affascinante",
+      "Momenti divertenti e leggeri"
+    ]
+  },
+  {
+    "question": "Che tipo di finale preferisci in un film?",
+    "answers": [
+      "Felice, tutti devono stare bene",
+      "Aperto, lascia spazio all'immaginazione",
+      "Tragico, ma potente",
+      "Con un bel colpo di scena"
+    ]
+  },
+  {
+    "question": "Sei in vena di qualcosa di...",
+    "answers": [
+      "Rilassante e tranquillo",
+      "Adrenalinico e veloce",
+      "Riflessivo e profondo",
+      "Divertente e spensierato"
+    ]
+  },
+  {
+    "question": "Quale di queste ambientazioni ti affascina di più?",
+    "answers": [
+      "Spazio profondo e mondi alieni",
+      "Città metropolitane moderne",
+      "Paesaggi medievali e fantastici",
+      "Piccoli paesi pittoreschi"
+    ]
+  },
+  {
+    "question": "Che tipo di protagonista ti coinvolge di più?",
+    "answers": [
+      "Un eroe imperfetto ma affascinante",
+      "Un genio fuori dagli schemi",
+      "Un ribelle che sfida il sistema",
+      "Un personaggio normale in una situazione straordinaria"
+    ]
+  },
+  {
+    "question": "Quale di queste frasi descrive meglio il tuo rapporto con i film horror?",
+    "answers": [
+      "Li evito a tutti i costi!",
+      "Mi piacciono, ma senza esagerare",
+      "Li adoro, più sono spaventosi meglio è",
+      "Preferisco quelli con una storia profonda"
+    ]
+  },
+  {
+    "question": "Se un film fosse un pasto, quale sarebbe il tuo preferito?",
+    "answers": [
+      "Un piatto speziato e pieno di sapore",
+      "Un dolce leggero e delizioso",
+      "Un pasto gourmet da gustare lentamente",
+      "Un fast food soddisfacente"
+    ]
+  },
+  {
+    "question": "Quanto tempo hai a disposizione per guardare un film oggi?",
+    "answers": [
+      "Meno di un'ora",
+      "1-2 ore",
+      "Tutto il tempo che serve, se ne vale la pena",
+      "Non importa, basta che sia coinvolgente"
+    ]
+  },
+  {
+    "question": "Quale di queste coppie di attori ti entusiasma di più?",
+    "answers": [
+      "Leonardo DiCaprio & Kate Winslet",
+      "Will Smith & Martin Lawrence",
+      "Ryan Gosling & Emma Stone",
+      "Robert De Niro & Al Pacino"
+    ]
+  },
+  {
+    "question": "Quale di questi registi ti incuriosisce di più?",
+    "answers": [
+      "Christopher Nolan",
+      "Quentin Tarantino",
+      "Guillermo del Toro",
+      "Greta Gerwig"
+    ]
+  },
+  {
+    "question": "Se dovessi scegliere un superpotere per il protagonista di un film, quale sarebbe?",
+    "answers": [
+      "Invisibilità",
+      "Viaggio nel tempo",
+      "Telepatia",
+      "Super forza"
+    ]
+  },
+  {
+    "question": "Quale colonna sonora vorresti nella tua vita quotidiana?",
+    "answers": [
+      "Epica e orchestrale",
+      "Elettronica e futuristica",
+      "Jazz rilassante",
+      "Rock energico"
+    ]
+  },
+  {
+    "question": "Preferisci un film che ti faccia...",
+    "answers": [
+      "Piangere intensamente",
+      "Ridere senza freni",
+      "Restare con il fiato sospeso",
+      "Pensare a lungo"
+    ]
+  },
+  {
+    "question": "Quale di questi cliché cinematografici ti diverte di più?",
+    "answers": [
+      "Il cattivo che spiega il piano troppo a lungo",
+      "La coppia che si innamora dopo essersi odiata",
+      "L'eroe che sopravvive contro ogni logica",
+      "Il personaggio comico che salva la situazione"
+    ]
+  },
+  {
+    "question": "Come deve essere il ritmo del film che guardi oggi?",
+    "answers": [
+      "Lento e profondo",
+      "Bilanciato, con momenti intensi e riflessivi",
+      "Veloce e senza respiro",
+      "Non importa, basta che sia coinvolgente"
+    ]
+  },
+  {
+    "question": "Se dovessi scegliere un’epoca per ambientare un film, quale sarebbe?",
+    "answers": [
+      "Futuro distante",
+      "Anni ‘80 nostalgici",
+      "Medioevo epico",
+      "Presente moderno"
+    ]
+  },
+  {
+    "question": "Quale di queste emozioni vuoi provare guardando un film oggi?",
+    "answers": [
+      "Nostalgia e dolcezza",
+      "Adrenalina pura",
+      "Mistero e curiosità",
+      "Allegria e leggerezza"
+    ]
+  },
+  {
+    "question": "Se dovessi scegliere un’ambientazione surreale per un film, quale preferiresti?",
+    "answers": [
+      "Un mondo sottomarino abitato da creature fantastiche",
+      "Una città sospesa tra le nuvole",
+      "Un labirinto infinito pieno di enigmi",
+      "Un pianeta dove il tempo scorre al contrario"
+    ]
+  },
+  {
+    "question": "Se potessi vivere dentro un film per un giorno, quale sarebbe?",
+    "answers": [
+      "Un thriller ad alta tensione",
+      "Una commedia spensierata",
+      "Un film d'azione esplosivo",
+      "Un dramma profondo e riflessivo"
+    ]
+  },
+  {
+    "question": "Cosa deve assolutamente avere un film per piacerti?",
+    "answers": [
+      "Personaggi incredibili",
+      "Colpi di scena imprevedibili",
+      "Un'ambientazione affascinante",
+      "Momenti divertenti e leggeri"
+    ]
+  },
+  {
+    "question": "Che tipo di finale preferisci in un film?",
+    "answers": [
+      "Felice, tutti devono stare bene",
+      "Aperto, lascia spazio all'immaginazione",
+      "Tragico, ma potente",
+      "Con un bel colpo di scena"
+    ]
+  },
+  {
+    "question": "Sei in vena di qualcosa di...",
+    "answers": [
+      "Rilassante e tranquillo",
+      "Adrenalinico e veloce",
+      "Riflessivo e profondo",
+      "Divertente e spensierato"
+    ]
+  },
+  {
+    "question": "Quale di queste ambientazioni ti affascina di più?",
+    "answers": [
+      "Spazio profondo e mondi alieni",
+      "Città metropolitane moderne",
+      "Paesaggi medievali e fantastici",
+      "Piccoli paesi pittoreschi"
+    ]
+  },
+  {
+    "question": "Se un film fosse un animale, quale vorresti vedere?",
+    "answers": [
+      "Un lupo solitario e misterioso",
+      "Un pavone coloratissimo e spettacolare",
+      "Un gatto enigmatico e imprevedibile",
+      "Uno squalo affamato di azione"
+    ]
+  },
+  {
+    "question": "Se dovessi scegliere una colonna sonora per la tua vita, quale sarebbe?",
+    "answers": [
+      "Musica epica da battaglia",
+      "Jazz rilassante",
+      "Synth anni '80",
+      "Un mix di canzoni assurde e imprevedibili"
+    ]
+  },
+  {
+    "question": "Se potessi inserire un personaggio assurdo in qualsiasi film, chi sarebbe?",
+    "answers": [
+      "Un cavaliere medievale in un film di fantascienza",
+      "Un alieno saggio in una commedia romantica",
+      "Un robot in un western",
+      "Un vampiro in un film di guerra"
+    ]
+  },
+  {
+    "question": "Se il protagonista di un film fosse un oggetto inanimato, quale sarebbe?",
+    "answers": [
+      "Un tostapane parlante con un passato oscuro",
+      "Un ombrello che controlla il tempo",
+      "Un paio di occhiali che mostrano il futuro",
+      "Un vecchio libro con poteri misteriosi"
+    ]
+  },
+  {
+    "question": "Se dovessi guardare un film con una sola espressione facciale per tutta la durata, quale sceglieresti?",
+    "answers": [
+      "Sorriso beffardo",
+      "Faccia impassibile da poker",
+      "Sguardo terrorizzato",
+      "Sopracciglio alzato in perenne perplessità"
+    ]
+  },
+  {
+    "question": "Se potessi scegliere un film da guardare sottosopra per un effetto straniante, quale sarebbe?",
+    "answers": [
+      "Un horror psicologico",
+      "Un film d'azione velocissimo",
+      "Un dramma profondo e malinconico",
+      "Un documentario sugli oceani"
+    ]
+  },
+  {
+    "question": "Quale sarebbe il peggior titolo alternativo per il tuo film preferito?",
+    "answers": [
+      "Il tizio che cammina molto",
+      "Esplosioni, inseguimenti e gente che urla",
+      "Amori complicati e silenzi lunghissimi",
+      "Lo stesso giorno che si ripete all’infinito"
+    ]
+  },
+  {
+    "question": "Se il protagonista di un film dovesse comunicare solo con una parola per tutta la durata, quale parola sceglieresti?",
+    "answers": [
+      "Banana",
+      "Boom!",
+      "Aiuto!",
+      "Mah..."
+    ]
+  },
+  {
+    "question": "Se potessi mangiare solo cibo visto nei film, cosa sceglieresti?",
+    "answers": [
+      "La zuppa blu di Matrix",
+      "Le ciambelle di Homer Simpson",
+      "Lo spuntino di mezzanotte di Pulp Fiction",
+      "Il cibo spaziale di Star Wars"
+    ]
+  },
+  {
+    "question": "Quale personaggio di un film sarebbe il peggior compagno di stanza?",
+    "answers": [
+      "Joker (troppo caotico)",
+      "Forrest Gump (troppo loquace)",
+      "Il Terminator (troppo silenzioso)",
+      "Jack Sparrow (troppo imprevedibile)"
+    ]
+  },
+  {
+    "question": "Se un film fosse una stagione dell'anno, quale sarebbe il tuo preferito?",
+    "answers": [
+      "Inverno, cupo e drammatico",
+      "Primavera, colorato e leggero",
+      "Estate, pieno di energia e avventura",
+      "Autunno, malinconico e profondo"
+    ]
+  },
+  {
+    "question": "Se il cinema fosse vietato e potessi vedere un solo film in segreto, quale genere sceglieresti?",
+    "answers": [
+      "Un thriller proibito",
+      "Una commedia che sfida il sistema",
+      "Un documentario illuminante",
+      "Un horror sovversivo"
+    ]
+  },
+  {
+    "question": "Se dovessi scoprire che un film è in realtà un messaggio segreto per te, quale sarebbe?",
+    "answers": [
+      "Inception (qualcosa dentro di te si sta risvegliando)",
+      "Interstellar (qualcuno ti sta cercando)",
+      "Shutter Island (sei sicuro di essere dove credi?)",
+      "The Truman Show (stanno tutti guardando te!)"
+    ]
+  },
+  {
+    "question": "Se il tuo umore fosse un film, quale genere sarebbe?",
+    "answers": ["Commedia surreale", "Thriller psicologico", "Romance epico", "Documentario contemplativo"]
+  },
+  {
+    "question": "Quale scena ti fa venire più voglia di popcorn?",
+    "answers": ["Una battaglia epica", "Un ballo romantico sotto la pioggia", "Un inseguimento in macchina", "Una riflessione filosofica davanti al camino"]
+  },
+  {
+    "question": "Preferisci i film che ti fanno...",
+    "answers": ["Ridere fino alle lacrime", "Pensare fino a notte fonda", "Sognare ad occhi aperti", "Saltare sulla sedia per la paura"]
+  },
+  {
+    "question": "Quanto tempo hai a disposizione per un film?",
+    "answers": ["Un'ora, massimo", "Un paio d'ore", "Una maratona cinematografica", "Dipende dall'umore"]
+  },
+  {
+    "question": "Preferisci un film...",
+    "answers": ["Appena uscito al cinema", "Un classico intramontabile", "Un cult di nicchia", "Qualcosa di inaspettato"]
+  },
+  {
+    "question": "Quale genere ti fa venire l'orticaria?",
+    "answers": ["Horror splatter", "Melodramma strappalacrime", "Western polveroso", "Musical stucchevole"]
+  },
+  {
+    "question": "Ti piacciono i film con...",
+    "answers": ["Effetti speciali da capogiro", "Una storia basata su fatti realmente accaduti", "Personaggi animati indimenticabili", "Un finale a sorpresa che ti lascia a bocca aperta"]
+  },
+  {
+    "question": "In questo momento, vorresti un film che ti facesse sentire...",
+    "answers": ["Rilassato come un gatto al sole", "Emozionato come un bambino a Disneyland", "Profondo come l'oceano", "Divertito come a una festa a sorpresa"]
+  },
+  {
+    "question": "Preferisci un film con un ritmo...",
+    "answers": ["Frenetico come un videogioco", "Lento e contemplativo come una passeggiata nel bosco", "Moderato, con qualche colpo di scena", "Imprevedibile come le montagne russe"]
+  },
+  {
+    "question": "Se il tuo umore fosse un colore, quale sarebbe?",
+    "answers": ["Giallo sole", "Blu profondo", "Rosso passione", "Verde speranza"]
+  },
+  {
+    "question": "Quale superpotere vorresti vedere in un film?",
+    "answers": ["Viaggiare nel tempo", "Leggere nel pensiero", "Volare", "Parlare con gli animali"]
+  },
+  {
+    "question": "Ti piacciono i film con...",
+    "answers": ["Un messaggio importante", "Un finale aperto all'interpretazione", "Una colonna sonora indimenticabile", "Un cast stellare"]
+  },
+  {
+    "question": "Quale cibo ti fa venire in mente un film?",
+    "answers": ["Popcorn al caramello", "Cioccolato fondente", "Pizza con gli amici", "Gelato alla vaniglia"]
+  },
+  {
+    "question": "Preferisci un film...",
+    "answers": ["Ambientato in un futuro distopico", "Ambientato in un'epoca passata", "Ambientato in un luogo esotico", "Ambientato nella vita di tutti i giorni"]
+  },
+  {
+    "question": "Quale animale ti fa venire in mente un film?",
+    "answers": ["Un leone ruggente", "Un gufo saggio", "Un delfino giocoso", "Un gatto misterioso"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Sentire come se fossi lì", "Imparare qualcosa di nuovo", "Riflettere sulla vita", "Sentire parte di una grande avventura"]
+  },
+  {
+    "question": "Quale elemento naturale ti fa venire in mente un film?",
+    "answers": ["Un temporale scatenato", "Un tramonto romantico", "Un paesaggio innevato", "Un'aurora boreale magica"]
+  },
+  {
+    "question": "Preferisci un film...",
+    "answers": ["Con un protagonista eroico", "Con un antieroe affascinante", "Con un gruppo di amici inseparabili", "Con un personaggio solitario e misterioso"]
+  },
+  {
+    "question": "Quale oggetto ti fa venire in mente un film?",
+    "answers": ["Una vecchia macchina da scrivere", "Un binocolo", "Una bussola", "Una chiave antica"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Sentire come se stessi vivendo un sogno", "Sentire come se fossi in un viaggio", "Sentire come se stessi risolvendo un mistero", "Sentire come se stessi imparando una lezione"]
+  },
+  {
+    "question": "Quale emozione ti fa venire in mente un film?",
+    "answers": ["Nostalgia", "Meraviglia", "Suspense", "Gioia pura"]
+  },
+  {
+    "question": "Preferisci un film...",
+    "answers": ["Con un finale che ti fa piangere", "Con un finale che ti fa sorridere", "Con un finale che ti fa pensare", "Con un finale che ti lascia senza parole"]
+  },
+  {
+    "question": "Quale luogo ti fa venire in mente un film?",
+    "answers": ["Una città frenetica", "Una spiaggia deserta", "Una foresta incantata", "Una casa infestata"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Sentire come se stessi vivendo una storia d'amore", "Sentire come se stessi combattendo una battaglia", "Sentire come se stessi esplorando un nuovo mondo", "Sentire come se stessi scoprendo un segreto"]
+  },
+  {
+    "question": "Quale suono ti fa venire in mente un film?",
+    "answers": ["Un'orchestra sinfonica", "Il suono delle onde del mare", "Il crepitio del fuoco", "Il suono di un treno in corsa"]
+  },
+  {
+    "question": "Preferisci un film...",
+    "answers": ["Con un protagonista che cambia il mondo", "Con un protagonista che cambia se stesso", "Con un protagonista che cambia il suo destino", "Con un protagonista che cambia la tua prospettiva"]
+  },
+  {
+    "question": "Quale profumo ti fa venire in mente un film?",
+    "answers": ["Popcorn appena fatti", "Profumo di pioggia", "Profumo di libri antichi", "Profumo di fiori esotici"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Sentire come se stessi vivendo una favola", "Sentire come se stessi vivendo un'avventura", "Sentire come se stessi vivendo un sogno", "Sentire come se stessi vivendo una vita diversa"]
+  },
+  {
+    "question": "Quale colore ti fa venire in mente un film?",
+    "answers": ["Rosso passione", "Blu profondo", "Verde speranza", "Giallo sole"]
+  },
+  {
+    "question": "Preferisci un film...",
+    "answers": ["Con un protagonista che ti fa ridere", "Con un protagonista che ti fa piangere", "Con un protagonista che ti fa pensare", "Con un protagonista che ti fa sentire vivo"]
+  },
+  {
+    "question": "Quale sapore ti fa venire in mente un film?",
+    "answers": ["Popcorn salati", "Cioccolato fondente", "Gelato alla vaniglia", "Caramelle gommose"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Sentire come se stessi vivendo una storia d'amore", "Sentire come se stessi vivendo una battaglia epica", "Sentire come se stessi vivendo un'avventura indimenticabile", "Sentire come se stessi vivendo un sogno ad occhi aperti"]
+  },
+  {
+    "question": "Quale tessuto ti fa venire in mente un film?",
+    "answers": ["Velluto rosso", "Seta blu", "Lana verde", "Cotone giallo"]
+  },
+  {
+    "question": "Se il tuo cervello fosse un film, quale genere sarebbe?",
+    "answers": ["Commedia dell'assurdo", "Thriller esistenziale", "Romance intergalattico", "Documentario sui gatti"]
+  },
+  {
+    "question": "Quale scena ti farebbe urlare 'Ancora popcorn!'?",
+    "answers": ["Un'invasione di alieni ballerini", "Un matrimonio tra robot e unicorni", "Un inseguimento tra nonne ninja", "Una lezione di filosofia dei supereroi"]
+  },
+  {
+    "question": "Preferisci i film che ti fanno...",
+    "answers": ["Mettere in dubbio la realtà", "Credere nella magia", "Riscoprire l'infanzia", "Imparare a fare origami"]
+  },
+  {
+    "question": "Quanto tempo sei disposto a perdere per un film epico?",
+    "answers": ["Il tempo di una siesta", "Il tempo di una maratona", "Il tempo di un viaggio interstellare", "Il tempo di una vita intera"]
+  },
+  {
+    "question": "Preferisci un film...",
+    "answers": ["Con effetti speciali che sfidano la gravità", "Con dialoghi che ti fanno sentire un filosofo", "Con una colonna sonora che ti fa ballare", "Con un finale che ti fa chiedere 'Cosa ho appena visto?'"]
+  },
+  {
+    "question": "Quale genere ti fa venire voglia di lanciare il telecomando?",
+    "answers": ["Film di cucina sperimentale", "Documentari sui calzini spaiati", "Musical sui broccoli", "Horror sui coniglietti pasquali"]
+  },
+  {
+    "question": "Ti piacciono i film con...",
+    "answers": ["Personaggi che parlano con gli animali", "Trame che cambiano ogni 5 minuti", "Finali che ti fanno fare 'WTF?'", "Scene che ti fanno sentire come se fossi in un videogioco"]
+  },
+  {
+    "question": "In questo momento, vorresti un film che ti facesse...",
+    "answers": ["Sentire come se stessi volando", "Sentire come se stessi viaggiando nel tempo", "Sentire come se stessi vivendo in un sogno", "Sentire come se stessi parlando con un alieno"]
+  },
+  {
+    "question": "Preferisci un film con un ritmo...",
+    "answers": ["Più veloce di un ghepardo", "Più lento di una lumaca", "Imprevedibile come una partita a scacchi", "Che ti fa sentire come se stessi meditando"]
+  },
+  {
+    "question": "Se il tuo umore fosse un animale, quale sarebbe?",
+    "answers": ["Un panda che fa yoga", "Un fenicottero che balla la salsa", "Un bradipo che fa parkour", "Un polpo che suona il pianoforte"]
+  },
+  {
+    "question": "Quale superpotere vorresti avere in un film?",
+    "answers": ["Cambiare il colore dei calzini con il pensiero", "Far crescere i capelli a dismisura", "Parlare con i pesci rossi", "Prevedere il futuro leggendo le foglie di tè"]
+  },
+  {
+    "question": "Ti piacciono i film con...",
+    "answers": ["Personaggi che risolvono enigmi matematici", "Trame che si svolgono sott'acqua", "Finali che ti fanno piangere dal ridere", "Scene che ti fanno venire voglia di ballare la breakdance"]
+  },
+  {
+    "question": "Quale cibo ti fa venire in mente un film epico?",
+    "answers": ["Popcorn al curry", "Gelato al gusto di pizza", "Spaghetti con le polpette giganti", "Torta di compleanno a forma di astronave"]
+  },
+  {
+    "question": "Preferisci un film...",
+    "answers": ["Ambientato in un mondo di caramelle", "Ambientato in una città sottomarina", "Ambientato in una giungla di robot", "Ambientato in un castello di sabbia"]
+  },
+  {
+    "question": "Quale animale ti fa venire in mente un film d'azione?",
+    "answers": ["Un criceto ninja", "Un pappagallo pirata", "Un pinguino surfista", "Un camaleonte spia"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Sentire come se stessi viaggiando nello spazio", "Sentire come se stessi vivendo in un cartone animato", "Sentire come se stessi risolvendo un mistero interdimensionale", "Sentire come se stessi imparando a parlare una lingua aliena"]
+  },
+  {
+    "question": "Quale elemento naturale ti fa venire in mente un film fantasy?",
+    "answers": ["Un arcobaleno che parla", "Un vulcano che erutta caramelle", "Un fiume di cioccolato", "Un albero che fa le fusa"]
+  },
+  {
+    "question": "Preferisci un film...",
+    "answers": ["Con un protagonista che viaggia nel tempo con un tostapane", "Con un antieroe che ruba le nuvole", "Con un gruppo di amici che combattono contro i mostri di marshmallow", "Con un personaggio solitario che parla con le ombre"]
+  },
+  {
+    "question": "Quale oggetto ti fa venire in mente un film di fantascienza?",
+    "answers": ["Un telecomando che controlla il tempo", "Un paio di occhiali che ti fanno vedere i dinosauri", "Un cappello che ti fa volare", "Una penna che scrive il futuro"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Sentire come se stessi vivendo in un videogioco", "Sentire come se stessi risolvendo un puzzle gigante", "Sentire come se stessi imparando a fare magie", "Sentire come se stessi parlando con un robot"]
+  },
+  {
+    "question": "Quale emozione ti fa venire in mente un film d'avventura?",
+    "answers": ["Curiosità", "Meraviglia", "Adrenalina", "Nostalgia"]
+  },
+  {
+    "question": "Preferisci un film...",
+    "answers": ["Con un finale che ti fa ridere a crepapelle", "Con un finale che ti fa piangere di gioia", "Con un finale che ti fa pensare 'Cosa succederà dopo?'", "Con un finale che ti fa sentire come se stessi vivendo in un sogno"]
+  },
+  {
+    "question": "Quale luogo ti fa venire in mente un film horror?",
+    "answers": ["Un luna park abbandonato", "Un bosco di bambù infestato", "Un hotel di ghiaccio", "Un museo di cere viventi"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Sentire come se stessi vivendo una storia d'amore impossibile", "Sentire come se stessi combattendo una battaglia epica contro i robot", "Sentire come se stessi esplorando un mondo alieno", "Sentire come se stessi scoprendo un segreto nascosto nel tempo"]
+  },
+  {
+    "question": "Quale suono ti fa venire in mente un film musicale?",
+    "answers": ["Il suono di un'orchestra di gatti", "Il suono di un coro di robot", "Il suono di un assolo di ukulele alieno", "Il suono di un duetto di balene"]
+  },
+  {
+    "question": "Preferisci un film...",
+    "answers": ["Con un protagonista che cambia il mondo con una risata", "Con un protagonista che cambia se stesso imparando a fare giocoleria", "Con un protagonista che cambia il suo destino viaggiando nel tempo con una macchina per il caffè", "Con un protagonista che cambia la tua prospettiva parlando con le formiche"]
+  },
+  {
+    "question": "Quale profumo ti fa venire in mente un film romantico?",
+    "answers": ["Profumo di popcorn al caramello e rose", "Profumo di pioggia e cioccolato caldo", "Profumo di libri antichi e vaniglia", "Profumo di fiori esotici e magia"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Sentire come se stessi vivendo una favola moderna", "Sentire come se stessi vivendo un'avventura interattiva", "Sentire come se stessi vivendo un sogno lucido", "Sentire come se stessi vivendo una vita parallela"]
+  },
+  {
+    "question": "Se la tua vita fosse un film, quale sarebbe il titolo?",
+    "answers": ["La sinfonia dei calzini spaiati", "Avventure intergalattiche di un gatto filosofo", "Il mistero del gelato scomparso", "La danza delle ombre e dei sogni"]
+  },
+  {
+    "question": "Quale creatura mitologica vorresti vedere come protagonista di un film?",
+    "answers": ["Un unicorno detective", "Un drago che fa il barista", "Una sirena che suona la batteria", "Un centauro che fa parkour"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno sentire come se stessi...",
+    "answers": ["Viaggiando in un mondo di zucchero filato", "Parlando con i fiori", "Riscuotendo una rapina in banca con dei pinguini", "Dirigendo un'orchestra di gatti"]
+  },
+  {
+    "question": "Quale oggetto di uso quotidiano vorresti vedere come arma in un film d'azione?",
+    "answers": ["Un telecomando che lancia fulmini", "Un tostapane che spara fette di pane tostato esplosive", "Un asciugacapelli che crea tornado", "Un aspirapolvere che risucchia i nemici"]
+  },
+  {
+    "question": "Se potessi vivere in un film, quale sarebbe?",
+    "answers": ["Un cartone animato degli anni '80", "Un film di fantascienza degli anni '50", "Un musical di Bollywood", "Un film muto in bianco e nero"]
+  },
+  {
+    "question": "Quale scena ti farebbe esclamare 'Voglio essere lì!'?",
+    "answers": ["Un concerto di alieni che suonano strumenti a forma di verdura", "Una gara di ballo tra robot e dinosauri", "Una festa in una casa sull'albero gigante", "Un picnic su una nuvola"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Imparare a fare magie con le carte", "Riflettere sulla natura dei sogni", "Credere nell'esistenza degli unicorni", "Sentire come se stessi vivendo in un videogioco retrò"]
+  },
+  {
+    "question": "Quale personaggio storico vorresti vedere come protagonista di un film comico?",
+    "answers": ["Albert Einstein che fa il comico di cabaret", "Leonardo da Vinci che fa il mago", "Cleopatra che fa la stand-up comedian", "Marie Curie che fa la stuntwoman"]
+  },
+  {
+    "question": "Se potessi avere un animale domestico parlante, quale sarebbe e che genere di film vi vedrebbe insieme?",
+    "answers": ["Un gatto che fa il detective in un film noir", "Un cane che fa il pilota di caccia in un film di guerra", "Un pappagallo che fa il critico cinematografico in una commedia romantica", "Un criceto che fa l'astronauta in un film di fantascienza"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Sentire come se stessi viaggiando nello spazio con un tostapane", "Sentire come se stessi risolvendo un mistero con un gruppo di formiche", "Sentire come se stessi imparando a fare magie con le ombre", "Sentire come se stessi parlando con un robot che fa le fusa"]
+  },
+  {
+    "question": "Quale oggetto magico vorresti avere in un film fantasy?",
+    "answers": ["Un cappello che ti fa cambiare identità", "Un mantello che ti fa volare nel tempo", "Una bacchetta che trasforma gli oggetti in cibo", "Un anello che ti fa parlare con gli animali"]
+  },
+  {
+    "question": "Se potessi cambiare il finale di un film famoso, quale sarebbe e come lo cambieresti?",
+    "answers": ["Titanic: Jack sopravvive e apre un ristorante di pesce", "Il Padrino: Michael Corleone diventa un pacifista", "Star Wars: Darth Vader diventa un ballerino di tip tap", "Il Signore degli Anelli: Frodo lancia l'anello nel Monte Fato e diventa un giardiniere"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Sentire come se stessi vivendo in un sogno lucido", "Sentire come se stessi imparando a fare parkour con un bradipo", "Sentire come se stessi parlando con un albero che fa le fusa", "Sentire come se stessi viaggiando in un mondo di caramelle con un unicorno"]
+  },
+  {
+    "question": "Quale creatura fantastica vorresti vedere come protagonista di un film d'animazione?",
+    "answers": ["Un drago che fa il pilota di aeroplani", "Un unicorno che fa il surfista", "Un grifone che fa il postino", "Un centauro che fa il giocatore di basket"]
+  },
+  {
+    "question": "Se potessi avere un superpotere da film, quale sarebbe e come lo useresti nella vita di tutti i giorni?",
+    "answers": ["Teletrasporto: per evitare il traffico", "Invisibilità: per fare scherzi ai tuoi amici", "Controllo del tempo: per dormire di più", "Parlare con gli animali: per sapere cosa pensano i tuoi animali domestici"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Sentire come se stessi viaggiando in un mondo fatto di Lego", "Sentire come se stessi imparando a suonare uno strumento alieno", "Sentire come se stessi parlando con un robot che fa le rime", "Sentire come se stessi vivendo in un cartone animato degli anni '60"]
+  },
+  {
+    "question": "Quale oggetto di uso quotidiano vorresti vedere come protagonista di un film di fantascienza?",
+    "answers": ["Un tostapane che viaggia nel tempo", "Un frigorifero che parla con gli alieni", "Un aspirapolvere che combatte i robot", "Un telecomando che controlla la realtà"]
+  },
+  {
+    "question": "Se potessi vivere in un film di un altro genere, quale sarebbe e perché?",
+    "answers": ["Un film horror: per provare l'adrenalina", "Un film western: per cavalcare i cavalli", "Un film di arti marziali: per imparare a combattere", "Un film di danza: per esprimermi con il corpo"]
+  },
+  {
+    "question": "Ti piacciono i film che ti fanno...",
+    "answers": ["Sentire come se stessi vivendo in un videogioco di ruolo", "Sentire come se stessi imparando a fare magie con le ombre cinesi", "Sentire come se stessi parlando con un albero che fa le barzellette", "Sentire come se stessi viaggiando in un mondo di caramelle con un drago che fa il pilota"]
+  },
+  {
+    "question": "Quale creatura leggendaria vorresti vedere come protagonista di un film romantico?",
+    "answers": ["Un unicorno che si innamora di un umano", "Un drago che scrive poesie d'amore", "Una sirena che canta serenate", "Un centauro che fa il corteggiatore"]
+  }
+]
