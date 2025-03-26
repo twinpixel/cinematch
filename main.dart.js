@@ -8804,7 +8804,7 @@ q=f
 s=1
 break}n="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp-image-generation:generateContent?key=AIzaSyANFvdtLDFZFrcVxP3MKwJ2KLAfBk1aHyM"
 f=t.N
-m=B.a4.nH(A.G(["contents",A.a([A.G(["parts",A.a([A.G(["text","Crea una locandina per il film '"+a+"'"],f,f)],t.m0)],f,t.xW)],t.Ud),"generationConfig",A.G(["responseModalities",A.a(["Text","Image"],t.s)],f,t.yp)],f,t.K),null)
+m=B.a4.nH(A.G(["contents",A.a([A.G(["parts",A.a([A.G(["text","Crea una locandina di dimensione 200x200 per il film '"+a+"'"],f,f)],t.m0)],f,t.xW)],t.Ud),"generationConfig",A.G(["responseModalities",A.a(["Text","Image"],t.s)],f,t.yp)],f,t.K),null)
 p=4
 s=7
 return A.X(A.agC(A.dQ(n,0,null),m,A.G(["Content-Type","application/json","Accept","*/*","User-Agent","EchoapiRuntime/1.1.0"],f,f)),$async$ac2)
