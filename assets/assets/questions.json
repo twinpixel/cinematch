@@ -763,5 +763,312 @@
   {
     "question": "Quale trama assurda e metafisica potrebbe essere il cuore di un capolavoro cinematografico?",
     "answers": ["Una malattia che costringe le persone a vivere le vite degli altri", "Un mondo in cui le persone possono vedere il loro destino scritto nei sottotitoli", "Un film che inizia con il finale e procede all’indietro, ma solo per il protagonista", "Un’esistenza in cui ogni volta che si prende una decisione il mondo si sdoppia, ma solo una versione sopravvive"]
+  },
+  {
+    "question": "Quale regista vorresti che dirigesse la storia della tua vita?",
+    "answers": [
+      "Wes Anderson per uno stile simmetrico e colorato",
+      "Christopher Nolan per un twist temporale",
+      "Greta Gerwig per una narrazione intima e personale",
+      "Quentin Tarantino per dialoghi taglienti e azione"
+    ]
+  },
+  {
+    "question": "Cosa preferisci in un adattamento cinematografico di un libro?",
+    "answers": [
+      "Fedeltà assoluta alla fonte originale",
+      "Una reinterpretazione creativa",
+      "Personaggi più sviluppati",
+      "Effetti visivi che esplorano l’immaginario del libro"
+    ]
+  },
+  {
+    "question": "Come reagiresti se il tuo film preferito avesse un remake?",
+    "answers": [
+      "Lo eviterei come la peste",
+      "Gli darei una chance per curiosità",
+      "Lo guarderei solo se il cast originale è coinvolto",
+      "Organizzerei una protesta sui social"
+    ]
+  },
+  {
+    "question": "Quale elemento tecnico apprezzi di più in un film?",
+    "answers": [
+      "Fotografia e luce mozzafiato",
+      "Montaggio dinamico e ritmato",
+      "Colonna sonora iconica",
+      "Scenografie dettagliate e immersive"
+    ]
+  },
+  {
+    "question": "Se dovessi fondere due generi cinematografici, quali sceglieresti?",
+    "answers": [
+      "Fantascienza + Musical",
+      "Horror + Commedia romantica",
+      "Noir + Fantasy",
+      "Documentario + Azione"
+    ]
+  },
+  {
+    "question": "Quale eroe cinematografico ti rappresenta di più?",
+    "answers": [
+      "Il genio solitario che salva il mondo (es: Tony Stark)",
+      "L’antieroe sarcastico (es: Deadpool)",
+      "Il ribelle con una causa (es: Katniss Everdeen)",
+      "Il sognatore che cambia la realtà (es: Neo)"
+    ]
+  },
+  {
+    "question": "Come preferisci guardare un film?",
+    "answers": [
+      "Al cinema, con popcorn e silenzio sacro",
+      "A casa, sul divano in pigiama",
+      "In maratona con amici e cibo spazzatura",
+      "Su un dispositivo portatile durante i viaggi"
+    ]
+  },
+  {
+    "question": "Quale libro vorresti diventasse un film?",
+    "answers": [
+      "Un classico della letteratura mai adattato",
+      "Un romanzo fantasy epico",
+      "Una graphic novel underground",
+      "Un memoir personale e introspettivo"
+    ]
+  },
+  {
+    "question": "Quale location esotica vorresti in un film?",
+    "answers": [
+      "Una giungla incontaminata",
+      "Un deserto con città abbandonate",
+      "Un’isola vulcanica misteriosa",
+      "Una metropoli futuristiche in Asia"
+    ]
+  },
+  {
+    "question": "Cosa ti fa abbandonare un film a metà?",
+    "answers": [
+      "Trama prevedibile e noiosa",
+      "Dialoghi imbarazzanti",
+      "Effetti speciali da anni '90",
+      "Personaggi irritanti"
+    ]
+  },
+  {
+    "question": "Quale film dell’infanzia ti ha segnato di più?",
+    "answers": [
+      "Un classico Disney/Pixar",
+      "Un fantasy magico (es: *La storia infinita*)",
+      "Un avventura per tutta la famiglia (es: *Goonies*)",
+      "Un cartone animato cult giapponese"
+    ]
+  },
+  {
+    "question": "Se un film fosse un cocktail, quale sarebbe?",
+    "answers": [
+      "Mojito: fresco e frizzante",
+      "Old Fashioned: classico e sofisticato",
+      "Bloody Mary: intenso e speziato",
+      "Cosmopolitan: colorato e divertente"
+    ]
+  },
+  {
+    "question": "Quale film ti ha fatto cambiare opinione su un genere?",
+    "answers": [
+      "Un horror con una trama profonda",
+      "Una commedia romantica non convenzionale",
+      "Un documentario che sembra un thriller",
+      "Un dramma storico con elementi fantasy"
+    ]
+  },
+  {
+    "question": "Quale attore non protagonista merita più riconoscimenti?",
+    "answers": [
+      "Il caratterista che ruba ogni scena",
+      "La giovane promessa sottovalutata",
+      "L’attore di teatro che fa film rari",
+      "Il doppiatore con una voce iconica"
+    ]
+  },
+  {
+    "question": "Come introduceresti qualcuno al cinema?",
+    "answers": [
+      "Con un classico senza tempo",
+      "Con un cult moderno e dirompente",
+      "Con un film che sfida i generi",
+      "Con una commedia che unisce tutti"
+    ]
+  },
+  {
+    "question": "Quale film ti ha sorpreso più di tutti per la sua trama imprevedibile?",
+    "answers": [
+      "Fight Club",
+      "Oldboy",
+      "The Prestige",
+      "Gone Girl"
+    ]
+  },
+  {
+    "question": "Se potessi cancellare la memoria di un film per rivederlo come la prima volta, quale sceglieresti?",
+    "answers": [
+      "Inception",
+      "Il Sesto Senso",
+      "Interstellar",
+      "Parasite"
+    ]
+  },
+  {
+    "question": "Preferisci un film che ti lasci con una domanda o con una risposta?",
+    "answers": [
+      "Una domanda, per riflettere",
+      "Una risposta, per chiudere la storia",
+      "Dipende dal film",
+      "Non ci ho mai pensato"
+    ]
+  },
+  {
+    "question": "Se potessi salvare un solo film da un'apocalisse, quale sceglieresti?",
+    "answers": [
+      "2001: Odissea nello Spazio",
+      "Il Padrino",
+      "Pulp Fiction",
+      "Casablanca"
+    ]
+  },
+  {
+    "question": "Quale attore o attrice non ti stanca mai di vedere sullo schermo?",
+    "answers": [
+      "Meryl Streep",
+      "Leonardo DiCaprio",
+      "Joaquin Phoenix",
+      "Cate Blanchett"
+    ]
+  },
+  {
+    "question": "Preferisci i film con un ritmo frenetico o con un ritmo più lento e riflessivo?",
+    "answers": [
+      "Frenetico, pieno di tensione",
+      "Lento, ma profondo",
+      "Un equilibrio tra i due",
+      "Dipende dalla storia"
+    ]
+  },
+  {
+    "question": "Quale tra questi film d'animazione preferisci?",
+    "answers": [
+      "Il Re Leone",
+      "La Città Incantata",
+      "Ratatouille",
+      "Akira"
+    ]
+  },
+  {
+    "question": "Quale film consideri sopravvalutato?",
+    "answers": [
+      "Avatar",
+      "Titanic",
+      "Joker",
+      "La La Land"
+    ]
+  },
+  {
+    "question": "Un film può essere bello anche se non ha una storia tradizionale?",
+    "answers": [
+      "Sì, la sperimentazione è arte",
+      "No, una storia chiara è fondamentale",
+      "Dipende dalla regia",
+      "Non ho un'opinione a riguardo"
+    ]
+  },
+  {
+    "question": "Quale film ha la migliore scena d'azione di sempre?",
+    "answers": [
+      "Mad Max: Fury Road",
+      "Matrix",
+      "John Wick",
+      "Die Hard"
+    ]
+  },
+  {
+    "question": "Se dovessi scegliere un film per insegnare qualcosa di importante, quale sarebbe?",
+    "answers": [
+      "Schindler’s List",
+      "Inside Out",
+      "12 Anni Schiavo",
+      "Dead Poets Society"
+    ]
+  },
+  {
+    "question": "Cosa rovina di più un film secondo te?",
+    "answers": [
+      "Dialoghi banali",
+      "Finale deludente",
+      "Personaggi poco credibili",
+      "Effetti speciali scadenti"
+    ]
+  },
+  {
+    "question": "Se il cinema non esistesse, quale altro mezzo useresti per raccontare storie?",
+    "answers": [
+      "Teatro",
+      "Letteratura",
+      "Videogiochi",
+      "Fumetti"
+    ]
+  },
+  {
+    "question": "Quale film ha avuto il miglior colpo di scena secondo te?",
+    "answers": [
+      "I Soliti Sospetti",
+      "Il Sesto Senso",
+      "Shutter Island",
+      "The Others"
+    ]
+  },
+  {
+    "question": "Quale regista moderno sta rivoluzionando il cinema?",
+    "answers": [
+      "Denis Villeneuve",
+      "Jordan Peele",
+      "Greta Gerwig",
+      "Robert Eggers"
+    ]
+  },
+  {
+    "question": "Quale film ti ha fatto cambiare idea su un argomento importante?",
+    "answers": [
+      "Una Donna Fantastica",
+      "Dallas Buyers Club",
+      "Spotlight",
+      "A Beautiful Mind"
+    ]
+  },
+  {
+    "question": "Preferisci un film con una forte componente visiva o con una grande sceneggiatura?",
+    "answers": [
+      "Visiva, per l'impatto emozionale",
+      "Sceneggiatura, per la profondità",
+      "Entrambe bilanciate",
+      "Dipende dal genere"
+    ]
+  },
+  {
+    "question": "Quale film indipendente consideri un capolavoro?",
+    "answers": [
+      "Whiplash",
+      "Moonlight",
+      "The Lighthouse",
+      "Boyhood"
+    ]
+  },
+  {
+    "question": "Se potessi essere un personaggio di un film per un giorno, chi saresti?",
+    "answers": [
+      "Indiana Jones",
+      "Neo di Matrix",
+      "Forrest Gump",
+      "Lisbeth Salander"
+    ]
   }
+
 ]
