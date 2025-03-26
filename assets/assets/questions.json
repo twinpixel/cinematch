@@ -655,5 +655,113 @@
   {
     "question": "Quale creatura leggendaria vorresti vedere come protagonista di un film romantico?",
     "answers": ["Un unicorno che si innamora di un umano", "Un drago che scrive poesie d'amore", "Una sirena che canta serenate", "Un centauro che fa il corteggiatore"]
+  },
+  {
+    "question": "Quale creatura leggendaria vorresti vedere come protagonista di un film romantico?",
+    "answers": ["Un unicorno che si innamora di un umano", "Un drago che scrive poesie d'amore", "Una sirena che canta serenate", "Un centauro che fa il corteggiatore"]
+  },
+  {
+    "question": "Quale ambientazione preferiresti per un thriller psicologico?",
+    "answers": ["Un ospedale psichiatrico abbandonato", "Una stazione spaziale alla deriva", "Un monastero isolato tra le montagne", "Una città distopica con sorveglianza totale"]
+  },
+  {
+    "question": "Se potessi scegliere il tema principale di un film d’autore, quale sarebbe?",
+    "answers": ["La solitudine in una metropoli moderna", "Il confronto tra uomo e intelligenza artificiale", "Un viaggio simbolico attraverso i sogni", "Un'amicizia proibita in un regime totalitario"]
+  },
+  {
+    "question": "Quale tipo di protagonista ti affascina di più?",
+    "answers": ["Un genio tormentato in cerca di riscatto", "Un antieroe amorale con un codice d'onore", "Un investigatore con un segreto oscuro", "Un outsider che sfida le convenzioni della società"]
+  },
+  {
+    "question": "Quale stile visivo preferisci in un film?",
+    "answers": ["Minimalista e contemplativo", "Estremamente stilizzato e onirico", "Greve e realistico, quasi documentaristico", "Sperimentale e frammentato"]
+  },
+  {
+    "question": "Se potessi vivere dentro un film, quale sarebbe il genere ideale?",
+    "answers": ["Un noir anni '40 con detective e femme fatale", "Un horror psicologico che sfida la realtà", "Un'avventura fantasy epica", "Un film cyberpunk in una megalopoli neon"]
+  },
+  {
+    "question": "Quale elemento narrativo trovi più intrigante?",
+    "answers": ["Un colpo di scena sconvolgente", "Una narrazione non lineare e frammentata", "Dialoghi taglienti e intelligenti", "Un finale ambiguo e aperto a interpretazioni"]
+  },
+  {
+    "question": "Quale cultura o epoca storica ti piacerebbe esplorare attraverso il cinema?",
+    "answers": ["Il Giappone feudale e i samurai", "L’Europa medievale con cavalieri e intrighi di corte", "La New York degli anni '70 tra arte e criminalità", "Una civiltà futura post-apocalittica"]
+  },
+  {
+    "question": "Quale tra queste dinamiche di personaggi preferisci?",
+    "answers": ["Un maestro e un allievo in conflitto", "Due amanti separati dal destino", "Un'amicizia distruttiva e tossica", "Un duello mentale tra due avversari geniali"]
+  },
+  {
+    "question": "Quale tipo di horror ti spaventa di più?",
+    "answers": ["L'horror psicologico che insinua il dubbio", "L'horror sovrannaturale con presenze inquietanti", "Il body horror con trasformazioni disturbanti", "L'horror realista ispirato a eventi veri"]
+  },
+  {
+    "question": "Quale personaggio cinematografico vorresti incontrare nella vita reale?",
+    "answers": ["Un filosofo errante che racconta storie", "Un ladro affascinante con un passato misterioso", "Un killer professionista con una morale contorta", "Uno scienziato geniale ma ossessionato dalle sue ricerche"]
+  },
+  {
+    "question": "Se potessi riscrivere un finale di un film, quale sarebbe il tuo obiettivo?",
+    "answers": ["Renderlo più realistico e cupo", "Lasciarlo ancora più ambiguo e aperto", "Dare una chiusura soddisfacente ai personaggi", "Capovolgere completamente il senso della storia"]
+  },
+  {
+    "question": "Quale tema morale ti affascina di più nei film?",
+    "answers": ["Il confine tra giustizia e vendetta", "L’illusione del libero arbitrio", "L’identità e la memoria", "Il potere della manipolazione psicologica"]
+  },
+  {
+    "question": "Quale tra queste trame ti intriga di più?",
+    "answers": ["Un uomo si sveglia in un mondo dove nessuno lo riconosce", "Una persona scopre di essere il personaggio di una storia scritta da qualcun altro", "Un assassino si innamora della sua prossima vittima", "Un gruppo di sconosciuti si sveglia in un luogo sconosciuto senza memoria"]
+  },
+  {
+    "question": "Se un film fosse basato sulle tue paure più profonde, quale sarebbe il tema?",
+    "answers": ["L'idea di perdere la propria identità", "Essere intrappolato in un loop temporale senza fine", "Scoprire che la realtà è una simulazione", "Essere perseguitato da un’entità invisibile ma onnipresente"]
+  },
+  {
+    "question": "Quale colonna sonora ti piacerebbe ascoltare in un film che racconta la tua vita?",
+    "answers": ["Musica elettronica ipnotica e minimale", "Un'orchestra epica e drammatica", "Jazz noir e malinconico", "Silenzio interrotto solo da suoni diegetici"]
+  },
+  {
+    "question": "Quale emozione principale dovrebbe suscitare un film perfetto per te?",
+    "answers": ["Un senso di inquietudine e mistero", "Una profonda malinconia e nostalgia", "Una tensione costante fino all'ultimo minuto", "Un'illuminazione improvvisa e filosofica"]
+  },
+  {
+    "question": "Quale scenario apocalittico ti affascina di più?",
+    "answers": ["Un mondo dove l’umanità si è estinta e la natura ha ripreso il controllo", "Un futuro in cui il linguaggio stesso sta scomparendo", "Una società in cui i sogni possono essere registrati e venduti", "Un’apocalisse lenta e inesorabile causata dall’immortalità"]
+  },
+  {
+    "question": "Se fossi costretto a vivere dentro un film horror, quale scegli?",
+    "answers": ["Un mondo in cui chiunque venga dimenticato scompare fisicamente", "Un reality show segreto dove le persone vengono cacciate per sport", "Una casa in cui ogni notte il tempo si riavvolge e gli inquilini dimenticano tutto", "Una setta che costringe le persone a scegliere tra suicidio e obbedienza assoluta"]
+  },
+  {
+    "question": "Quale peccato capitale vorresti esplorare in un film disturbante?",
+    "answers": ["Superbia: un genio che manipola la società per puro piacere intellettuale", "Avarizia: un mondo in cui la ricchezza si misura in anni di vita", "Lussuria: una distopia dove l’amore è illegale e tutto è regolato dal desiderio", "Accidia: persone che vendono il proprio tempo e finiscono per scomparire"]
+  },
+  {
+    "question": "Quale trasformazione corporea inquietante sarebbe il fulcro di un film perfetto per te?",
+    "answers": ["Una persona inizia a perdere progressivamente i propri organi senza morire", "Un uomo scopre di poter impiantare i ricordi di altre persone nel proprio corpo", "Una donna sviluppa un secondo volto sul petto che sussurra segreti proibiti", "Un gruppo di persone scambia parti del corpo tra loro per sopravvivere"]
+  },
+  {
+    "question": "Quale tra queste storie di vendetta sarebbe la più affascinante da vedere sullo schermo?",
+    "answers": ["Un uomo che si finge morto per assistere alla distruzione lenta dei suoi nemici", "Un assassino che punisce i colpevoli inserendoli in sogni da cui non possono svegliarsi", "Una donna che riscrive la memoria collettiva per cancellare il passato dei suoi avversari", "Un artista che usa il proprio corpo come arma, scolpendo le proprie ferite in un’opera d’arte vivente"]
+  },
+  {
+    "question": "Se un film dovesse portarti sull’orlo della follia, quale premessa sarebbe perfetta?",
+    "answers": ["Una stanza in cui ogni dieci minuti cambia completamente la realtà", "Un protagonista che scopre che la propria coscienza è condivisa tra più corpi", "Un film che si ripete all’infinito, ma ogni volta con un piccolo dettaglio diverso", "Una storia che costringe lo spettatore a fare scelte morali reali con conseguenze fuori dallo schermo"]
+  },
+  {
+    "question": "Quale di queste storie d’amore impossibili ti incuriosisce di più?",
+    "answers": ["Un uomo innamorato di una donna che esiste solo in un libro che nessuno riesce a scrivere", "Una relazione tra un umano e una coscienza artificiale che sta diventando indipendente", "Un amore tra due persone che possono incontrarsi solo per pochi secondi ogni anno", "Una storia romantica dove il protagonista è ossessionato dall’idea che il suo partner non sia reale"]
+  },
+  {
+    "question": "Quale esperimento sociale sarebbe il punto di partenza perfetto per un film inquietante?",
+    "answers": ["Un reality show in cui i partecipanti scoprono solo alla fine che non possono andarsene", "Una città in cui la polizia è sostituita da un sistema di giustizia casuale", "Un esperimento che dimostra che il libero arbitrio non esiste realmente", "Un test psicologico che convince le persone di essere personaggi di un film"]
+  },
+  {
+    "question": "Se un film dovesse mettere in discussione la tua stessa esistenza, quale scenario sarebbe il più disturbante?",
+    "answers": ["Un uomo scopre che ogni volta che si addormenta la sua personalità viene sostituita", "Un gruppo di persone realizza che sono solo pensieri nella mente di qualcun altro", "Un bambino si accorge che il mondo si resetta ogni volta che chiude gli occhi", "Un protagonista che capisce che il pubblico stesso sta decidendo il suo destino"]
+  },
+  {
+    "question": "Quale trama assurda e metafisica potrebbe essere il cuore di un capolavoro cinematografico?",
+    "answers": ["Una malattia che costringe le persone a vivere le vite degli altri", "Un mondo in cui le persone possono vedere il loro destino scritto nei sottotitoli", "Un film che inizia con il finale e procede all’indietro, ma solo per il protagonista", "Un’esistenza in cui ogni volta che si prende una decisione il mondo si sdoppia, ma solo una versione sopravvive"]
   }
 ]
