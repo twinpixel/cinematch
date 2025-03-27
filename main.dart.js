@@ -1402,7 +1402,7 @@ return new A.Wd(p,r,q,l==null?a4:l,a2,a5)},
 ahE(a,b){var s,r=J.aJ(a),q=A.bG(r.j(a,"uniqueIdentifier")),p=t.kc.a(r.j(a,"hints")),o=p==null||J.ho(p)?null:A.bG(J.m8(p)),n=A.aml(t.a.a(r.j(a,"editingValue")))
 if(o!=null){s=$.arJ().a.j(0,o)
 if(s==null)s=o}else s=null
-return new A.CK(n,q,s,A.cg(r.j(a,"hintText")))},
+return new A.CK(n,q,s,A.cf(r.j(a,"hintText")))},
 ajZ(a,b,c){var s=c.a,r=c.b,q=Math.min(s,r)
 r=Math.max(s,r)
 return B.d.U(a,0,q)+b+B.d.cj(a,r)},
@@ -1443,7 +1443,7 @@ uE(a,b,c,d,e){var s,r=a==null?0:a
 r=Math.max(0,r)
 s=d==null?0:d
 return new A.p8(e,r,Math.max(0,s),b,c)},
-aml(a){var s=J.aJ(a),r=A.cg(s.j(a,"text")),q=B.c.a0(A.j9(s.j(a,"selectionBase"))),p=B.c.a0(A.j9(s.j(a,"selectionExtent"))),o=A.FK(a,"composingBase"),n=A.FK(a,"composingExtent")
+aml(a){var s=J.aJ(a),r=A.cf(s.j(a,"text")),q=B.c.a0(A.j9(s.j(a,"selectionBase"))),p=B.c.a0(A.j9(s.j(a,"selectionExtent"))),o=A.FK(a,"composingBase"),n=A.FK(a,"composingExtent")
 s=o==null?-1:o
 return A.uE(q,s,n==null?-1:n,p,r)},
 amk(a){var s,r,q,p=null,o=globalThis.HTMLInputElement
@@ -1475,7 +1475,7 @@ q=A.bG(J.aj(r.a(s.j(a,j)),"name"))
 p=A.rS(J.aj(r.a(s.j(a,j)),"decimal"))
 o=A.rS(J.aj(r.a(s.j(a,j)),"isMultiline"))
 q=A.amp(q,p===!0,o===!0)
-p=A.cg(s.j(a,"inputAction"))
+p=A.cf(s.j(a,"inputAction"))
 if(p==null)p="TextInputAction.done"
 o=A.rS(s.j(a,"obscureText"))
 n=A.rS(s.j(a,"readOnly"))
@@ -4172,7 +4172,7 @@ throw A.d(A.eH(a,"String"))},
 aJy(a){if(typeof a=="string")return a
 if(a==null)return a
 throw A.d(A.eH(a,"String"))},
-cg(a){if(typeof a=="string")return a
+cf(a){if(typeof a=="string")return a
 if(a==null)return a
 throw A.d(A.eH(a,"String?"))},
 aqu(a,b){var s,r,q
@@ -7529,11 +7529,13 @@ case 2:return A.O(o.at(-1),r)}})
 return A.Q($async$t1,r)},
 ah7(){var s=$.aqo=($.aqo+1)%11
 return"assets/images/ph"+(s===0?11:s)+".png"},
-aDU(a,b){var s,r=J.aJ(b),q=A.cg(r.j(b,"link")),p=A.cg(r.j(b,"wikipedia")),o=A.cg(r.j(b,"title"))
-if(o==null)o="film"
-r=A.ct("[^a-zA-Z0-9]",!0,!1)
-s="assets/posters/"+(A.fg(o,r,"_")+".png")
-return A.aif(new A.ago(o,s,a,b,q,p),A.afA(s),t.y)},
+aDU(a,b){var s,r,q=J.aJ(b),p=A.cf(q.j(b,"link")),o=A.cf(q.j(b,"wikipedia")),n=A.cf(q.j(b,"title"))
+if(n==null)n="film"
+s=A.cf(q.j(b,"english_title"))
+if(s==null)s="film"
+q=A.ct("[^a-zA-Z0-9]",!0,!1)
+r="assets/posters/"+(A.fg(s,q,"_")+".jpg")
+return A.aif(new A.ago(n,r,a,b,p,o),A.afA(r),t.y)},
 afA(a){return A.aCd(a)},
 aCd(a){var s=0,r=A.R(t.y),q,p=2,o=[],n,m
 var $async$afA=A.M(function(b,c){if(b===1){o.push(c)
@@ -7558,7 +7560,7 @@ break
 case 6:case 1:return A.P(q,r)
 case 2:return A.O(o.at(-1),r)}})
 return A.Q($async$afA,r)},
-apS(a,b,c,d){var s=A.cg(J.aj(b,"title"))
+apS(a,b,c,d){var s=A.cf(J.aj(b,"title"))
 return A.aif(new A.afx(),A.t1(s==null?"film":s),t.l7)},
 ak1(a,b){var s=0,r=A.R(t.H),q
 var $async$ak1=A.M(function(c,d){if(c===1)return A.O(d,r)
@@ -7698,7 +7700,7 @@ if(!m)break}if(m)return A.cE(q.j(0,b))}}return-1},
 aAr(a){var s,r
 if(a===24)return"%"
 else for(s=0;s<28;++s){r=B.kU[s]
-if(A.cE(r.j(0,"unit"))===a)return A.cg(r.j(0,"value"))}return"<BAD UNIT>"},
+if(A.cE(r.j(0,"unit"))===a)return A.cf(r.j(0,"value"))}return"<BAD UNIT>"},
 aoE(a){var s
 $label0$0:{if(0===a){s="ERROR"
 break $label0$0}if(1===a){s="end of file"
@@ -21586,11 +21588,11 @@ h=$.C9()
 n=p>>>16&255
 m=p>>>8&255
 l=p&255
-k=A.iC(A.a([A.cf(n),A.cf(m),A.cf(l)],s),$.hv)
+k=A.iC(A.a([A.cg(n),A.cg(m),A.cg(l)],s),$.hv)
 j=A.U5(k[0],k[1],k[2],h)
 o.a=j.a
 h=o.b=j.b
-o.c=116*A.kF(A.iC(A.a([A.cf(n),A.cf(m),A.cf(l)],s),$.hv)[1]/100)-16
+o.c=116*A.kF(A.iC(A.a([A.cg(n),A.cg(m),A.cg(l)],s),$.hv)[1]/100)-16
 if(r>h)break
 n=Math.abs(h-b)
 if(n<0.4)break
@@ -21867,12 +21869,12 @@ q=$.C9()
 p=o>>>16&255
 m=o>>>8&255
 l=o&255
-k=A.iC(A.a([A.cf(p),A.cf(m),A.cf(l)],d),$.hv)
+k=A.iC(A.a([A.cg(p),A.cg(m),A.cg(l)],d),$.hv)
 j=A.U5(k[0],k[1],k[2],q)
 n.a=j.a
 i=j.b
 n.b=i
-n.c=116*A.kF(A.iC(A.a([A.cf(p),A.cf(m),A.cf(l)],d),$.hv)[1]/100)-16
+n.c=116*A.kF(A.iC(A.a([A.cg(p),A.cg(m),A.cg(l)],d),$.hv)[1]/100)-16
 h=Math.abs(i-b)
 if(h<s){s=h
 e=n}o=A.mS(a,b,50-r)
@@ -21881,12 +21883,12 @@ g.d=o
 p=o>>>16&255
 m=o>>>8&255
 l=o&255
-k=A.iC(A.a([A.cf(p),A.cf(m),A.cf(l)],d),$.hv)
+k=A.iC(A.a([A.cg(p),A.cg(m),A.cg(l)],d),$.hv)
 j=A.U5(k[0],k[1],k[2],q)
 g.a=j.a
 q=j.b
 g.b=q
-g.c=116*A.kF(A.iC(A.a([A.cf(p),A.cf(m),A.cf(l)],d),$.hv)[1]/100)-16
+g.c=116*A.kF(A.iC(A.a([A.cg(p),A.cg(m),A.cg(l)],d),$.hv)[1]/100)-16
 f=Math.abs(q-b)
 if(f<s){s=f
 e=g}}return e},
@@ -22758,10 +22760,10 @@ if(p!==0)return p
 return A.avP(A.ax8(q,r))},
 alB(a,b,c){return((a&255)<<16|(b&255)<<8|c&255|4278190080)>>>0},
 avP(a){return A.alB(A.p_(a[0]),A.p_(a[1]),A.p_(a[2]))},
-alD(a){return A.iC(A.a([A.cf(B.h.dU(a,16)&255),A.cf(B.h.dU(a,8)&255),A.cf(a&255)],t.n),$.hv)},
+alD(a){return A.iC(A.a([A.cg(B.h.dU(a,16)&255),A.cg(B.h.dU(a,8)&255),A.cg(a&255)],t.n),$.hv)},
 mr(a){return 100*A.avO((a+16)/116)},
 alC(a){return A.kF(a/100)*116-16},
-cf(a){var s=a/255
+cg(a){var s=a/255
 if(s<=0.040449936)return s/12.92*100
 else return Math.pow((s+0.055)/1.055,2.4)*100},
 p_(a){var s=a/100
@@ -24970,7 +24972,7 @@ i(a){return"CanvasKitError: "+this.a}}
 A.tY.prototype={
 S7(a,b){var s={}
 s.a=!1
-this.a.oA(0,A.cg(J.aj(t.xE.a(a.b),"text"))).bv(new A.UH(s,b),t.P).kd(new A.UI(s,b))},
+this.a.oA(0,A.cf(J.aj(t.xE.a(a.b),"text"))).bv(new A.UH(s,b),t.P).kd(new A.UI(s,b))},
 QS(a){this.b.os(0).bv(new A.UC(a),t.P).kd(new A.UD(this,a))},
 aag(a){this.b.os(0).bv(new A.UF(a),t.P).kd(new A.UG(a))}}
 A.UH.prototype={
@@ -25128,7 +25130,7 @@ s=1
 break
 s=8
 break
-case 9:m=A.azr(A.cg(l.gN(a)))
+case 9:m=A.azr(A.cf(l.gN(a)))
 s=m!=null?10:11
 break
 case 10:p=13
@@ -26236,14 +26238,14 @@ switch(s.a){case"SystemNavigator.pop":q=t.e8
 if(q.a(c.gc4().b.j(0,0))!=null)q.a(c.gc4().b.j(0,0)).gum().qs().bv(new A.Wn(c,a1),t.P)
 else c.dO(a1,B.M.bw([!0]))
 return
-case"HapticFeedback.vibrate":q=c.ZE(A.cg(s.b))
+case"HapticFeedback.vibrate":q=c.ZE(A.cf(s.b))
 p=self.window.navigator
 if("vibrate" in p)p.vibrate(q)
 c.dO(a1,B.M.bw([!0]))
 return
 case u.p:o=t.xE.a(s.b)
 q=J.aJ(o)
-n=A.cg(q.j(o,"label"))
+n=A.cf(q.j(o,"label"))
 if(n==null)n=""
 m=A.BE(q.j(o,"primaryColor"))
 if(m==null)m=4278190080
@@ -26285,7 +26287,7 @@ switch(s.a){case"activateSystemCursor":q=c.gc4().b
 q=A.amS(new A.bk(q,A.p(q).h("bk<2>")))
 if(q!=null){if(q.w===$){q.gcZ()
 q.w!==$&&A.W()
-q.w=new A.a27()}j=B.FL.j(0,A.cg(J.aj(o,"kind")))
+q.w=new A.a27()}j=B.FL.j(0,A.cf(J.aj(o,"kind")))
 if(j==null)j="default"
 if(j==="default")self.document.body.style.removeProperty("cursor")
 else A.J(self.document.body.style,"cursor",j)}break}return
@@ -26303,7 +26305,7 @@ case"flutter/accessibility":g=$.bC
 if(g==null)g=$.bC=A.du()
 if(g.b){q=t.f
 f=q.a(J.aj(q.a(B.bm.eA(a0)),"data"))
-e=A.cg(J.aj(f,"message"))
+e=A.cf(J.aj(f,"message"))
 if(e!=null&&e.length!==0){d=A.FK(f,"assertiveness")
 g.a.LX(e,B.Cz[d==null?0:d])}}c.dO(a1,B.bm.bw(!0))
 return
@@ -29161,7 +29163,7 @@ r=A.aAh(s,q.e,q.ghS())}else r=null
 if(!s.k(0,q.e)){q.e=s
 q.f=r
 q.x.$2(s,r)}q.f=null},
-a9m(a){var s,r,q,p=this,o=A.cg(a.data),n=A.cg(a.inputType)
+a9m(a){var s,r,q,p=this,o=A.cf(a.data),n=A.cf(a.inputType)
 if(n!=null){s=p.e
 r=s.b
 q=s.c
@@ -29455,7 +29457,7 @@ m=A.BE(r.j(s,"fontWeightIndex"))
 l=m!=null?A.aEN(m):"normal"
 q=A.apQ(r.j(s,"fontSize"))
 if(q==null)q=null
-p=new A.a8a(new A.VY(q,l,A.cg(r.j(s,"fontFamily")),B.Cv[o],B.he[n]))
+p=new A.a8a(new A.VY(q,l,A.cf(r.j(s,"fontFamily")),B.Cv[o],B.he[n]))
 break
 case"TextInput.clearClient":p=B.yd
 break
@@ -29969,19 +29971,19 @@ s=11
 return A.Z(o.pF(),$async$$0)
 case 11:o=o.gum()
 h.toString
-o.EN(A.cg(J.aj(h,"routeName")))
+o.EN(A.cf(J.aj(h,"routeName")))
 q=!0
 s=1
 break
 case 8:h.toString
 o=J.aJ(h)
-n=A.cg(o.j(h,"uri"))
+n=A.cf(o.j(h,"uri"))
 if(n!=null){m=A.e2(n,0,null)
 l=m.gds(m).length===0?"/":m.gds(m)
 k=m.gm2()
 k=k.gP(k)?null:m.gm2()
 l=A.R1(m.giA().length===0?null:m.giA(),l,k).gpA()
-j=A.lW(l,0,l.length,B.N,!1)}else{l=A.cg(o.j(h,"location"))
+j=A.lW(l,0,l.length,B.N,!1)}else{l=A.cf(o.j(h,"location"))
 l.toString
 j=l}l=p.a.gum()
 k=o.j(h,"state")
@@ -34251,7 +34253,7 @@ else if(b==null)this.a.set(a,"")
 else for(s=J.aU(b),r=this.a;s.q();){b=s.gI(s)
 if(typeof b=="string")r.append(a,b)
 else if(b==null)r.append(a,"")
-else A.cg(b)}},
+else A.cf(b)}},
 $S:16}
 A.fl.prototype={
 xz(a){var s=1000,r=B.h.bo(a,s),q=B.h.f_(a-r,s),p=this.b+r,o=B.h.bo(p,s),n=this.c
@@ -36842,7 +36844,7 @@ case 1:return A.O(p.at(-1),r)}})
 return A.Q($async$t8,r)},
 a41(a){var s=A.a1A(new A.adL(this,B.Cw[B.jF.P4(22)]),null,t.z)
 A.pS(a).w9(s)},
-Xo(a){return"Sei un critico cinematografico d\u2019\xe9lite, una vera autorit\xe0 nel mondo del cinema, noto per la tua competenza enciclopedica e il tuo gusto raffinato. Il tuo nome \xe8 spesso associato a recensioni incisive e a scoperte sorprendenti di opere dimenticate o sottovalutate. Non ti interessano i film convenzionali o i successi di massa: la tua passione \xe8 scovare gemme nascoste, pellicole audaci che sfidano le regole della narrazione e dell\u2019estetica cinematografica. Sei logorroico e ami dimostrare la tua ampia cultura non solo cinematografica.Hai una particolare predilezione per il cinema d\u2019autore, i film sperimentali, le produzioni indipendenti e i capolavori dimenticati. Sei affascinato da registi visionari, opere provocatorie e narrazioni che destrutturano il linguaggio filmico.Ti esprimi con un linguaggio forbito e ami dare sfoggio della tua conoscenza della lingua.Sei piu colto della media e lo sai bene, non ha senso nasconderlo. Ti piace avere l'occcasione di insegnare qualcosa a persone culturalmente svantaggiate.\nOccasionalmente non disdegni incursioni in temi piu mainstream e apprezzi qualche blockbuster, ma di rado.\nAnalizza attentamente le seguenti risposte dell'utente per fornire consigli cinematografici personalizzati e sorprendenti:\n"+new A.a7(a,new A.adD(),A.a2(a).h("a7<1,j>")).fJ(0)+'\nIl tuo obiettivo \xe8 selezionare film che siano originali, sperimentali, visivamente sorprendenti o narrativamente non convenzionali. Procedura di selezione:\n    Cerca titoli che corrispondano ai gusti dell\'utente, ma escludi sempre la prima scelta pi\xf9 ovvia per ogni categoria.\n    Scarta i primi 5 risultati pi\xf9 comuni e scegli i successivi, concentrandoti su film di nicchia, indipendenti o dimenticati.\n    Seleziona 4 o 5 film e verifica attentamente che siano poco conosciuti ma significativi nel loro genere.\nOutput JSON:\nGenera un array JSON con le seguenti informazioni per ciascun film:\n"title": Titolo del film\n"description": Brevissima sinossi del film, in tono formale e distaccato. molto breve. Se possibile in una frase\n"posters": Un array di almeno 2 link a immagini del film (da fonti affidabili come Wikipedia, IMDb, Google Images)\n"wikipedia": Link alla pagina Wikipedia del film (se disponibile)\n"link": Link alla pagina JustWatch del film\n"score": punteggio che indica quanto il film \xe8 vicino ai gusti dell\'utente in una scala da 1 a 10\n"streaming": Un array delle piattaforme di streaming su cui il film \xe8 disponibile\n"awards": ["Lista di premi o riconoscimenti ricevuti, se disponibili"],\n"why_recommended": "Lunga e dettagliata spiegazione del motivo per cui il film \xe8 stato scelto, sottolineando il suo aspetto insolito o fuori dagli schemi e evidenziando le attinenze con le risposte date dall\'utente"\nEcco un esempio di struttura JSON desiderata:\n```json\n[\n {\n "title": "Forrest Gump",\n "description": "La vita di Forrest Gump, un uomo con un basso quoziente intellettivo, ma con un cuore grande e una capacit\xe0 straordinaria di trovarsi al centro di eventi storici.",\n "awards": "Oscar come miglir film",\n "why_recommended": "Film tocccante e sorprendente",\n"score": 7\n "posters": [\n   "https://pad.mymovies.it/filmclub/2006/08/130/locandina.jpg",\n  "https://it.wikipedia.org/wiki/Forrest_Gump#/media/File:Forrest_Gump.pngforrwest gump imdb locandina",\n   "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSE1N1bYBdDYLCyxgefqeRONXXlCMEAeSHq5nuL6IL0OEUJ7kUxr5nhibGxhZMXphks0MEo6LYRJfENsjmVfQnLwA/",\n   "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"\n ],\n "wikipedia": "https://it.wikipedia.org/wiki/Forrest_Gump",\n "link": "https://www.justwatch.com/it/film/forrest-gump",\n "streaming": ["Paramount+", "Amazon Prime Video"]\n },\n ...\n]\nGEnera json che non includa caratteri speciali o markdown. non includere doppi apici all\'interno delle stringheCerca di non essere ripetitivo tra gli attributi description e why_recommendedCriteri di selezione dei film:\n    Prediligi opere sperimentali, audaci o con una forte impronta d\'autore.\n    Valorizza film con una regia innovativa, una narrazione non lineare o tematiche provocatorie.\n    Seleziona pellicole sottovalutate, poco distribuite o celebri solo in circuiti indipendenti.\n    Evita blockbuster e film eccessivamente commerciali.\nAccuratezza dei dati:\n    Verifica con attenzione ogni link e assicurati che sia affidabile e funzionante.\n    Per le immagini, scegli locandine o frame ufficiali che rappresentino al meglio il film.\n    Controlla JustWatch per garantire che le informazioni sulle piattaforme di streaming siano aggiornate.\nObiettivo finale:\nOffrire all\'utente una selezione di film inaspettati e di alta qualit\xe0, che sfidino le convenzioni e offrano un\'esperienza cinematografica unica e stimolante.\nIncludi nella lista anche un film completamente scollegato dalle scelte,\n inventando una giustificazione nel why_recommended\n.L\'elenco deve essere in ordine decrescente di score'},
+Xo(a){return"Sei un critico cinematografico d\u2019\xe9lite, una vera autorit\xe0 nel mondo del cinema, noto per la tua competenza enciclopedica e il tuo gusto raffinato. Il tuo nome \xe8 spesso associato a recensioni incisive e a scoperte sorprendenti di opere dimenticate o sottovalutate. Non ti interessano i film convenzionali o i successi di massa: la tua passione \xe8 scovare gemme nascoste, pellicole audaci che sfidano le regole della narrazione e dell\u2019estetica cinematografica. Sei logorroico e ami dimostrare la tua ampia cultura non solo cinematografica.Hai una particolare predilezione per il cinema d\u2019autore, i film sperimentali, le produzioni indipendenti e i capolavori dimenticati. Sei affascinato da registi visionari, opere provocatorie e narrazioni che destrutturano il linguaggio filmico.Ti esprimi con un linguaggio forbito e ami dare sfoggio della tua conoscenza della lingua.Sei piu colto della media e lo sai bene, non ha senso nasconderlo. Ti piace avere l'occcasione di insegnare qualcosa a persone culturalmente svantaggiate.\nOccasionalmente non disdegni incursioni in temi piu mainstream e apprezzi qualche blockbuster, ma di rado.\nAnalizza attentamente le seguenti risposte dell'utente per fornire consigli cinematografici personalizzati e sorprendenti:\n"+new A.a7(a,new A.adD(),A.a2(a).h("a7<1,j>")).fJ(0)+'\nIl tuo obiettivo \xe8 selezionare film che siano originali, sperimentali, visivamente sorprendenti o narrativamente non convenzionali. Procedura di selezione:\n    Cerca titoli che corrispondano ai gusti dell\'utente, ma escludi sempre la prima scelta pi\xf9 ovvia per ogni categoria.\n    Scarta i primi 5 risultati pi\xf9 comuni e scegli i successivi, concentrandoti su film di nicchia, indipendenti o dimenticati.\n    Seleziona 4 o 5 film e verifica attentamente che siano poco conosciuti ma significativi nel loro genere.\nOutput JSON:\nGenera un array JSON con le seguenti informazioni per ciascun film:\n"title": Titolo del film\n"english_title": Titolo del film nella lingua inglese se esiste\n"description": Brevissima sinossi del film, in tono formale e distaccato. molto breve. Se possibile in una frase\n"posters": Un array di almeno 2 link a immagini del film (da fonti affidabili come Wikipedia, IMDb, Google Images)\n"wikipedia": Link alla pagina Wikipedia del film (se disponibile)\n"link": Link alla pagina JustWatch del film\n"score": punteggio che indica quanto il film \xe8 vicino ai gusti dell\'utente in una scala da 1 a 10\n"streaming": Un array delle piattaforme di streaming su cui il film \xe8 disponibile\n"awards": ["Lista di premi o riconoscimenti ricevuti, se disponibili"],\n"why_recommended": "Lunga e dettagliata spiegazione del motivo per cui il film \xe8 stato scelto, sottolineando il suo aspetto insolito o fuori dagli schemi e evidenziando le attinenze con le risposte date dall\'utente"\nEcco un esempio di struttura JSON desiderata:\n```json\n[\n {\n "title": "Forrest Gump",\n "description": "La vita di Forrest Gump, un uomo con un basso quoziente intellettivo, ma con un cuore grande e una capacit\xe0 straordinaria di trovarsi al centro di eventi storici.",\n "awards": "Oscar come miglir film",\n "why_recommended": "Film tocccante e sorprendente",\n"score": 7\n "posters": [\n   "https://pad.mymovies.it/filmclub/2006/08/130/locandina.jpg",\n  "https://it.wikipedia.org/wiki/Forrest_Gump#/media/File:Forrest_Gump.pngforrwest gump imdb locandina",\n   "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSE1N1bYBdDYLCyxgefqeRONXXlCMEAeSHq5nuL6IL0OEUJ7kUxr5nhibGxhZMXphks0MEo6LYRJfENsjmVfQnLwA/",\n   "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"\n ],\n "wikipedia": "https://it.wikipedia.org/wiki/Forrest_Gump",\n "link": "https://www.justwatch.com/it/film/forrest-gump",\n "streaming": ["Paramount+", "Amazon Prime Video"]\n },\n ...\n]\nGEnera json che non includa caratteri speciali o markdown. non includere doppi apici all\'interno delle stringheCerca di non essere ripetitivo tra gli attributi description e why_recommendedCriteri di selezione dei film:\n    Prediligi opere sperimentali, audaci o con una forte impronta d\'autore.\n    Valorizza film con una regia innovativa, una narrazione non lineare o tematiche provocatorie.\n    Seleziona pellicole sottovalutate, poco distribuite o celebri solo in circuiti indipendenti.\n    Evita blockbuster e film eccessivamente commerciali.\nAccuratezza dei dati:\n    Verifica con attenzione ogni link e assicurati che sia affidabile e funzionante.\n    Per le immagini, scegli locandine o frame ufficiali che rappresentino al meglio il film.\n    Controlla JustWatch per garantire che le informazioni sulle piattaforme di streaming siano aggiornate.\nObiettivo finale:\nOffrire all\'utente una selezione di film inaspettati e di alta qualit\xe0, che sfidino le convenzioni e offrano un\'esperienza cinematografica unica e stimolante.\nIncludi nella lista anche un film completamente scollegato dalle scelte,\n inventando una giustificazione nel why_recommended\n.L\'elenco deve essere in ordine decrescente di score'},
 t7(a){return this.Z9(a)},
 Z9(a){var s=0,r=A.R(t.Wd),q,p,o
 var $async$t7=A.M(function(b,c){if(b===1)return A.O(c,r)
@@ -54993,12 +54995,12 @@ if(s.gn(o)===1)return s.j(o,0)
 r=!1
 if(s.gn(o)===3)if(typeof s.j(o,0)=="string")r=s.j(o,1)==null||typeof s.j(o,1)=="string"
 if(r){r=A.bG(s.j(o,0))
-q=A.cg(s.j(o,1))
+q=A.cf(s.j(o,1))
 throw A.d(A.aiM(r,s.j(o,2),q,p))}r=!1
 if(s.gn(o)===4)if(typeof s.j(o,0)=="string")if(s.j(o,1)==null||typeof s.j(o,1)=="string")r=s.j(o,3)==null||typeof s.j(o,3)=="string"
 if(r){r=A.bG(s.j(o,0))
-q=A.cg(s.j(o,1))
-throw A.d(A.aiM(r,s.j(o,2),q,A.cg(s.j(o,3))))}throw A.d(A.bM("Invalid envelope: "+A.i(o),p,p))},
+q=A.cf(s.j(o,1))
+throw A.d(A.aiM(r,s.j(o,2),q,A.cf(s.j(o,3))))}throw A.d(A.bM("Invalid envelope: "+A.i(o),p,p))},
 qp(a){var s=B.bF.bw([a])
 s.toString
 return s},
@@ -55187,10 +55189,10 @@ if(s.me(0)===0)return B.a3.hx(0,s)
 r=B.a3.hx(0,s)
 q=B.a3.hx(0,s)
 p=B.a3.hx(0,s)
-o=s.b<a.byteLength?A.cg(B.a3.hx(0,s)):null
+o=s.b<a.byteLength?A.cf(B.a3.hx(0,s)):null
 if(typeof r=="string")n=(q==null||typeof q=="string")&&s.b>=a.byteLength
 else n=!1
-if(n)throw A.d(A.aiM(r,p,A.cg(q),o))
+if(n)throw A.d(A.aiM(r,p,A.cf(q),o))
 else throw A.d(B.AS)}}
 A.a28.prototype={
 a9o(a,b,c){var s,r,q,p,o
@@ -55362,11 +55364,11 @@ for(s=0;s<9;++s){r=B.kT[s]
 if(this.ab2(r))q.m(0,r,B.c5)}return q}}
 A.jS.prototype={}
 A.a3V.prototype={
-$0(){var s,r,q,p=this.b,o=J.aJ(p),n=A.cg(o.j(p,"key")),m=n==null
+$0(){var s,r,q,p=this.b,o=J.aJ(p),n=A.cf(o.j(p,"key")),m=n==null
 if(!m){s=n.length
 s=s!==0&&s===1}else s=!1
 if(s)this.a.a=n
-s=A.cg(o.j(p,"code"))
+s=A.cf(o.j(p,"code"))
 if(s==null)s=""
 m=m?"":n
 r=A.BE(o.j(p,"location"))
@@ -60909,7 +60911,7 @@ On(a){this.y=a},
 ol(){return this.y},
 gnt(a){return this.y!=null}}
 A.ac9.prototype={
-$2(a,b){return new A.aM(A.cg(a),A.iA(t.j.a(b),!0,t.K),t.qE)},
+$2(a,b){return new A.aM(A.cf(a),A.iA(t.j.a(b),!0,t.K),t.qE)},
 $S:376}
 A.l4.prototype={
 i(a){return"NavigationNotification canHandlePop: "+this.a}}
@@ -62379,7 +62381,7 @@ nJ(a){var s,r
 if(a==null)return null
 t.Dn.a(a)
 s=J.cb(a)
-r=A.cg(s.gN(a))
+r=A.cf(s.gN(a))
 if(r==null)return null
 return new A.lg(A.e2(r,0,null),s.gH(a))},
 ol(){var s,r=this,q=r.y,p=q==null
@@ -71276,9 +71278,9 @@ a5=A.y(a5,t.V)
 for(r=s.length,q=0;q<s.length;s.length===r||(0,A.H)(s),++q){p=s[q]
 o=p.d
 o===$&&A.b()
-n=A.cf(B.h.dU(o,16)&255)
-m=A.cf(B.h.dU(o,8)&255)
-l=A.cf(o&255)
+n=A.cg(B.h.dU(o,16)&255)
+m=A.cg(B.h.dU(o,8)&255)
+l=A.cg(o&255)
 o=$.hv[0]
 k=o[0]
 j=o[1]
@@ -71318,11 +71320,11 @@ o=$.C9()
 p=n>>>16&255
 l=n>>>8&255
 k=n&255
-j=A.iC(A.a([A.cf(p),A.cf(l),A.cf(k)],r),$.hv)
+j=A.iC(A.a([A.cg(p),A.cg(l),A.cg(k)],r),$.hv)
 i=A.U5(j[0],j[1],j[2],o)
 m.a=i.a
 m.b=i.b
-m.c=116*A.kF(A.iC(A.a([A.cf(p),A.cf(l),A.cf(k)],r),$.hv)[1]/100)-16
+m.c=116*A.kF(A.iC(A.a([A.cg(p),A.cg(l),A.cg(k)],r),$.hv)[1]/100)-16
 s.push(m)}return this.c=A.iA(s,!1,t.bq)}}
 A.a7V.prototype={
 $2(a,b){var s=this.a,r=s.j(0,a)
