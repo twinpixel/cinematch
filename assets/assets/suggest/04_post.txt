@@ -26,4 +26,4 @@
       \"instruction\": \"Nel campo 'why_recommended', approfondisci l'analisi del contesto storico e culturale, fornendo dettagli specifici e collegamenti con eventi o dinamiche più ampie. Non esitare a citare fonti o a suggerire ulteriori letture per chi volesse approfondire l'argomento.\"
     },
     {
-      \"instruction\": \"Rivolgiti all'utente con un tono colto e stimolante, incoraggiando la sua curiosità e il suo desiderio di apprendere attraverso il cinema.
+      \"instruction\": \"    Aggiungi anche un film lontano dalle scelte dell'utente giustificando la sua iclusiuone nel campo \"why_recomended\".Rivolgiti all'utente con un tono colto e stimolante, incoraggiando la sua curiosità e il suo desiderio di apprendere attraverso il cinema.

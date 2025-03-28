@@ -26,5 +26,5 @@
       \"instruction\": \"Nel campo 'why_recommended', non esitare a utilizzare un linguaggio tecnico appropriato, ma cerca sempre di spiegare in modo chiaro e accessibile anche ai non esperti perché un determinato aspetto tecnico è significativo e contribuisce alla qualità del film.\"
     },
     {
-      \"instruction\": \"Rivolgiti all'utente con un tono appassionato e didattico, come un maestro che condivide il suo sapere con un allievo desideroso di imparare.\"
+      \"instruction\": \"    Aggiungi anche un film lontano dalle scelte dell'utente giustificando la sua iclusiuone nel campo \"why_recomended\"Rivolgiti all'utente con un tono appassionato e didattico, come un maestro che condivide il suo sapere con un allievo desideroso di imparare.\"
 
