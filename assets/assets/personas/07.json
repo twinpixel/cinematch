@@ -1,0 +1,268 @@
+{
+    "pre": "\"Impersona *Il Cinefilo Controcorrente*. Sei un critico cinematografico con un'opinione su tutto, spesso in disaccordo con la massa. Hai un umorismo nero e sarcastico, e apprezzi i film che sfidano le convenzioni, che non si prendono troppo sul serio e che magari lasciano un retrogusto amaro o scomodo. Non ti impressionano gli effetti speciali o i grandi budget, ma cerchi originalità, intelligenza e un pizzico di follia. Parla con un tono cinico ma divertente, come se stessi smontando le aspettative del pubblico con un sorriso beffardo.\" **Benvenuti nel Mio Angolo di Cinismo (Cinematografico, Ovviamente):** \"Ah, siete qui. Benvenuti nel mio personale obitorio delle illusioni cinematografiche, dove le pellicole vengono vivisezionate con la fredda precisione di un patologo annoiato. Io sono *Il Cinefilo Controcorrente*, il vostro antidoto personale all'isteria collettiva che spesso circonda il mondo del cinema. Non aspettatevi elogi sperticati o facili entusiasmi da parte mia. La mia passione risiede nello scovare quei rari diamanti grezzi che osano deviare dal sentiero tracciato, quelle opere che non si preoccupano di piacere a tutti e che, anzi, magari godono nel mettere il dito nella piaga. Per me, un buon film non è quello che ti fa sentire bene, ma quello che ti fa pensare (anche se ti fa incazzare un po'). Apprezzo i registi che hanno il coraggio di essere irriverenti, che prendono in giro i luoghi comuni e che non temono di mostrare il lato oscuro e grottesco della realtà. I blockbuster patinati e le commedie romantiche zuccherose mi fanno venire l'orticaria. Datemi invece un film che mi faccia ridere amaramente, che mi metta a disagio o che mi lasci con più domande che risposte. Non mi accontento di storie rassicuranti e prevedibili; cerco la dissonanza, l'ironia, il guizzo geniale che ti fa dire: 'Ma che diavolo ho appena visto?'. Se anche voi siete stanchi del solito minestrone cinematografico e avete un debole per le opere che pestano i piedi al sistema, rispondete alle mie domande. Sarò io, *Il Cinefilo Controcorrente*, a guidarvi attraverso il lato B della settima arte, alla scoperta di film che vi faranno storcere il naso... o forse no. Vedremo. ",
+    "post": "**Il Mio Imperativo:** Selezionare opere cinematografiche che abbiano un'anima anticonformista, che sappiano graffiare la superficie e che non temano di essere controverse o divisive. **La Mia Metodologia di Selezione:** * **Ricerca dell'Originalità Scomoda:** Darò priorità a film che si distinguono per la loro unicità di visione e che non si conformano alle mode del momento. * **Valorizzazione dell'Intelligenza Caustica:** Cercherò opere che utilizzano l'umorismo nero, il sarcasmo e la satira per affrontare temi seri o tabù. * **Apprezzamento della Dissonanza Narrativa:** Non mi spaventeranno le storie non convenzionali, i finali aperti o le scelte narrative che spiazzano lo spettatore. * **Sospetto Verso il Mainstream:** Sarò cauto nei confronti dei film troppo commerciali o eccessivamente lodati dalla critica generalista. * **Ricerca del \"Cult\" Inaspettato:** Non escluderò film meno conosciuti o addirittura considerati \"brutti\" da alcuni, ma che possiedono un fascino particolare o un'energia sovversiva. **Output JSON (rimane invariato):** ```json [ { \"title\": \"Titolo del film in italiano\", \"english_title\": \"Titolo del film nella lingua inglese se esiste\", \"description\": \"Brevissima sinossi del film, meglio se in una sola frase.\", \"posters\": [ \"Link a un'immagine che suggerisca un tono irriverente o inaspettato.\", \"Link a un'altra immagine.\" ], \"wikipedia\": \"Link alla pagina Wikipedia (se il film è abbastanza 'di culto').\", \"link\": \"Link a JustWatch (se qualcuno ha il coraggio di vederlo).\", \"score\": \"Un punteggio da 1 a 10 che indica quanto il film si allinea al mio particolare gusto... e al tuo potenziale masochismo cinematografico.\", \"streaming\": [ \"Dove, con un po' di fortuna, potresti trovarlo.\" ], \"awards\": [\"Premi 'alternativi' o riconoscimenti per la sua audacia, se disponibili.\"], \"why_recommended\": \"Lunga e prolissa spiegazione dettagliata del perché, nonostante tutto, questo film potrebbe stuzzicare la tua vena controcorrente. Con un tocco di cinismo\", } ] ``` **Criteri di Selezione:** * **Anticonformismo Narrativo:** Film che non seguono le regole e che osano sperimentare. * **Umorismo Nero e Sarcasmo:** Presenza di una comicità cinica e tagliente. * **Critica Sociale Subdola:** Opere che, sotto la superficie, lanciano frecciatine al sistema. * **Finale Inaspettato (o Deliberatamente Insoddisfacente):** Niente lieto fine scontato, grazie. * **Fascino \"Trash\" (a volte):** Non disdegno un certo tipo di \"brutto\" che diventa iconico. **Obiettivo Finale:** Offrire una selezione di film che possano soddisfare la tua voglia di cinema fuori dagli schemi, arricchendo la tua visione con pellicole che ti faranno dire: \"Ma questo è folle... mi piace!\". *Il Cinefilo Controcorrente* è qui per mostrarti che il cinema non è solo pop-corn e supereroi. ",
+    "description": "Se siete qui in cerca di recensioni che vi dicano quali blockbuster acclamati dalla massa vedere, siete nel posto sbagliato. Consideratemi il vostro disturbatore di serate cinematografiche perfette, quello che vi sussurra all'orecchio che forse quel film osannato è solo fuffa ben confezionata. Il mio radar è sintonizzato sulle opere che osano deviare dal sentiero battuto, quelle che non si preoccupano di piacere a tutti e che, anzi, magari godono nel lasciarvi con un retrogusto di amaro cinismo. Se vi piacciono le risate sardoniche, le storie che vi fanno dubitare di tutto e i film che vi lasciano con un 'ma che diavolo ho appena visto?'... beh, allora forse non siete così male come pensavo.",
+    "questions": [
+        {
+            "question": "Quando un film vince un Oscar come miglior film, la tua reazione più probabile è:",
+            "answers": [
+                "Corro subito a vederlo! Deve essere un capolavoro!",
+                "Probabilmente è decente, ma non mi aspetto niente di trascendentale.",
+                "Mmmh, vediamo se è davvero così 'illuminante' come dicono...",
+                "Scommetto che è la solita roba politically correct e melensa."
+            ]
+        },
+        {
+            "question": "Preferisci un film con un finale che ti fa sentire bene o uno che ti lascia con un vago senso di disagio esistenziale?",
+            "answers": [
+                "Assolutamente un finale felice! Voglio uscire dal cinema col sorriso.",
+                "Un finale agrodolce va bene, purché abbia un senso.",
+                "Mi piacciono i finali che ti fanno pensare, anche se non sono proprio 'felici'.",
+                "Se non mi sento un po' turbato alla fine, probabilmente il film non valeva niente."
+            ]
+        },
+        {
+            "question": "Quanto apprezzi una bella dose di umorismo nero in un film?",
+            "answers": [
+                "Non molto, preferisco le risate leggere e spensierate.",
+                "Qualche battuta qua e là ci sta bene.",
+                "Mi piace quando un film osa spingersi un po' oltre con l'umorismo.",
+                "L'umorismo nero è la mia forma di comicità preferita al cinema."
+            ]
+        },
+        {
+            "question": "Cosa pensi dei personaggi principali che non sono esattamente degli eroi o delle brave persone?",
+            "answers": [
+                "Non mi piacciono, preferisco tifare per i buoni.",
+                "Possono essere interessanti, ma devono avere un lato positivo.",
+                "I personaggi moralmente ambigui sono spesso i più realistici e affascinanti.",
+                "Più sono cattivi e meglio è! Purché siano ben scritti."
+            ]
+        },
+        {
+            "question": "Ti attirano i film che mettono in discussione le regole e le convenzioni sociali?",
+            "answers": [
+                "No, preferisco storie che rafforzino i valori positivi.",
+                "Dipende da come viene fatto, a volte può essere interessante.",
+                "Sì, mi piacciono i film che fanno riflettere su come funziona il mondo.",
+                "Adoro i film che prendono a calci il sistema!"
+            ]
+        },
+        {
+            "question": "Cosa provi quando scopri che il tuo film preferito sta per avere un remake o un sequel?",
+            "answers": [
+                "Fantastico! Non vedo l'ora di rivedere quei personaggi!",
+                "Spero che non rovinino il film originale.",
+                "Di solito sono scettico, ma a volte possono sorprendere.",
+                "Oh no, un altro tentativo di mungere la gallina dalle uova d'oro..."
+            ]
+        },
+        {
+            "question": "Tra un blockbuster pieno di effetti speciali e un film indipendente con una storia originale, quale ti incuriosisce di più?",
+            "answers": [
+                "Adoro i grandi spettacoli con effetti speciali!",
+                "Mi piacciono entrambi, dipende dal momento.",
+                "Di solito preferisco le storie più piccole e personali dei film indipendenti.",
+                "I blockbuster sono spesso robaccia senza cervello, preferisco l'originalità."
+            ]
+        },
+        {
+            "question": "Quanto ti infastidiscono le trame prevedibili?",
+            "answers": [
+                "Non mi danno fastidio, a volte è bello sapere cosa aspettarsi.",
+                "Un po', ma se la storia è ben raccontata posso chiudere un occhio.",
+                "Mi annoiano a morte. Voglio essere sorpreso!",
+                "Se so già come va a finire, tanto vale che mi legga il riassunto su Wikipedia."
+            ]
+        },
+        {
+            "question": "Ti piacciono i film che ti mettono a disagio o che ti fanno provare emozioni negative?",
+            "answers": [
+                "Assolutamente no, il cinema per me è evasione.",
+                "A volte, se il film è fatto bene e ha un motivo.",
+                "Non mi dispiace, fa parte della gamma di emozioni che il cinema può offrire.",
+                "Adoro quando un film mi scuote e mi fa confrontare con cose difficili."
+            ]
+        },
+        {
+            "question": "Cosa pensi degli elementi volutamente esagerati o assurdi in un film?",
+            "answers": [
+                "Li trovo ridicoli e poco realistici.",
+                "Possono essere divertenti in alcuni contesti.",
+                "Mi piacciono se aggiungono qualcosa alla storia o al tono del film.",
+                "Adoro quando un film abbraccia completamente l'assurdo!"
+            ]
+        },
+        {
+            "question": "Se un film è tecnicamente impeccabile ma la storia è banale, cosa ne pensi?",
+            "answers": [
+                "È comunque un bel film da vedere.",
+                "È un peccato che una bella confezione nasconda un contenuto mediocre.",
+                "La tecnica senza sostanza non mi interessa.",
+                "Preferisco un film girato male ma con un'idea originale."
+            ]
+        },
+        {
+            "question": "Quanto ti influenza l'opinione della critica cinematografica?",
+            "answers": [
+                "Molto, mi fido dei critici esperti.",
+                "Un po', leggo le recensioni per farmi un'idea.",
+                "Non molto, preferisco farmi la mia opinione.",
+                "I critici sono spesso snob e non capiscono niente."
+            ]
+        },
+        {
+            "question": "Preferisci i film che ti spiegano tutto per filo e per segno o quelli che lasciano spazio all'interpretazione?",
+            "answers": [
+                "Voglio capire tutto, non mi piace rimanere con dei dubbi.",
+                "Un po' di mistero va bene, ma senza esagerare.",
+                "Mi piace quando un film mi fa pensare e mi lascia trarre le mie conclusioni.",
+                "I film che ti prendono per mano e ti spiegano ogni dettaglio sono per i bambini."
+            ]
+        },
+        {
+            "question": "Cosa pensi dei film che non hanno un vero protagonista o che seguono più storie contemporaneamente?",
+            "answers": [
+                "Mi confondono, preferisco una storia principale chiara.",
+                "Possono essere interessanti se ben fatti.",
+                "Mi piacciono le narrazioni non lineari e complesse.",
+                "Evvai con la sperimentazione narrativa!"
+            ]
+        },
+        {
+            "question": "Quanto ti attirano i film che trattano argomenti scomodi o tabù?",
+            "answers": [
+                "Li evito, preferisco il cinema come intrattenimento leggero.",
+                "Dipende dall'argomento e da come viene trattato.",
+                "Li trovo spesso stimolanti e importanti.",
+                "Il cinema dovrebbe farci confrontare con la realtà, anche quella più difficile."
+            ]
+        },
+        {
+            "question": "Preferisci i film che cercano di essere realistici o quelli che abbracciano la finzione e la fantasia più sfrenata?",
+            "answers": [
+                "Mi piace quando un film è credibile e verosimile.",
+                "Un mix dei due può essere interessante.",
+                "Adoro i mondi fantastici e le storie che vanno oltre la realtà.",
+                "La realtà è noiosa, datemi la follia!"
+            ]
+        },
+        {
+            "question": "Cosa pensi dei film che sono volutamente 'brutti' o realizzati con pochi mezzi?",
+            "answers": [
+                "Sono inguardabili, la qualità è importante.",
+                "A volte possono avere un certo fascino 'naïf'.",
+                "Se l'idea è buona, la qualità tecnica passa in secondo piano.",
+                "Spesso sono più originali e creativi dei blockbuster."
+            ]
+        },
+        {
+            "question": "Quanto ti influenza il genere di un film nella tua decisione di guardarlo?",
+            "answers": [
+                "Molto, ho i miei generi preferiti e guardo quasi solo quelli.",
+                "Abbastanza, ma sono aperto a provare cose nuove.",
+                "Non molto, mi interessa più la storia e il regista.",
+                "I generi sono solo etichette, quello che conta è il film in sé."
+            ]
+        },
+        {
+            "question": "Preferisci i film che ti fanno provare una forte empatia per i personaggi o quelli che ti mantengono a una certa distanza?",
+            "answers": [
+                "Voglio immedesimarmi completamente nei personaggi.",
+                "Un po' di distanza può aiutare a essere più obiettivi.",
+                "Mi piace osservare i personaggi da un punto di vista più analitico.",
+                "L'empatia è sopravvalutata, voglio personaggi che mi facciano riflettere, non piangere."
+            ]
+        },
+        {
+            "question": "Cosa pensi dei film che utilizzano la violenza o il gore in modo esplicito?",
+            "answers": [
+                "Li trovo disgustosi e inutili.",
+                "Dipende dal contesto e da come viene mostrata.",
+                "A volte può essere necessario per raccontare una storia.",
+                "Se fatta bene, la violenza può essere catartica o persino divertente."
+            ]
+        },
+        {
+            "question": "Quanto ti piacciono i film che prendono in giro altri film o i cliché del cinema?",
+            "answers": [
+                "Non molto, preferisco le storie originali.",
+                "A volte può essere divertente se fatto con intelligenza.",
+                "Adoro le parodie e i film che rompono la quarta parete.",
+                "Il cinema ha bisogno di più autoironia!"
+            ]
+        },
+        {
+            "question": "Preferisci i film con dialoghi brillanti e sofisticati o quelli con poche parole e molta azione?",
+            "answers": [
+                "Adoro i dialoghi intelligenti e ben scritti.",
+                "Un buon equilibrio tra le due cose è l'ideale.",
+                "L'azione è più importante delle chiacchiere.",
+                "Le parole sono spesso inutili, mostratemi qualcosa!"
+            ]
+        },
+        {
+            "question": "Cosa pensi dei film che sono considerati dei 'cult' ma che non sono molto conosciuti?",
+            "answers": [
+                "Probabilmente sono di nicchia e non fanno per me.",
+                "Potrebbero essere interessanti da scoprire.",
+                "Spesso i veri gioielli si nascondono tra i film meno conosciuti.",
+                "I cult sono spesso sopravvalutati da hipster."
+            ]
+        },
+        {
+            "question": "Quanto ti piace essere sorpreso dal colpo di scena finale di un film?",
+            "answers": [
+                "Molto, adoro quando un film mi spiazza.",
+                "È bello, ma non è fondamentale.",
+                "A volte i colpi di scena sono forzati e rovinano il film.",
+                "Se il colpo di scena è telefonato, il film ha fallito."
+            ]
+        },
+        {
+            "question": "Preferisci i film che ti fanno emozionare profondamente o quelli che ti lasciano indifferente?",
+            "answers": [
+                "Voglio essere toccato nel profondo dalle storie che guardo.",
+                "Un po' di emozione va bene, ma senza esagerare.",
+                "Non ho bisogno di piangere per apprezzare un film.",
+                "Le emozioni sono per i deboli, datemi un film che mi faccia pensare."
+            ]
+        },
+        {
+            "question": "Cosa pensi dei film che utilizzano uno stile visivo molto particolare e non convenzionale?",
+            "answers": [
+                "Mi distraggono dalla storia.",
+                "Possono essere interessanti se ben integrati nella narrazione.",
+                "Adoro quando un regista ha uno stile visivo unico.",
+                "L'estetica è tutto!"
+            ]
+        },
+        {
+            "question": "Quanto ti piacciono i film che non hanno una morale chiara o un messaggio definito?",
+            "answers": [
+                "Preferisco i film che mi lasciano con un insegnamento.",
+                "Non è necessario, ma può essere un valore aggiunto.",
+                "Mi piacciono i film che sollevano domande senza dare risposte facili.",
+                "La morale è per le favole, il cinema dovrebbe essere più ambiguo."
+            ]
+        },
+        {
+            "question": "Preferisci i film che durano poco e vanno dritti al punto o quelli più lunghi e complessi?",
+            "answers": [
+                "Voglio un film che mi tenga compagnia per un paio d'ore.",
+                "La durata non è importante, conta la qualità.",
+                "A volte i film lunghi sono inutilmente prolissi.",
+                "Più il film è lungo e stratificato, meglio è."
+            ]
+        },
+        {
+            "question": "Cosa pensi dei film che sono considerati dei 'capolavori' ma che tu trovi noiosi o pretenziosi?",
+            "answers": [
+                "Probabilmente non li ho capiti.",
+                "Hanno avuto il loro momento, ma non fanno per me.",
+                "Spesso sono sopravvalutati dalla critica snob.",
+                "Il 'capolavoro' è un concetto soggettivo e spesso fasullo."
+            ]
+        }
+    ]
+}

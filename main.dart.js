@@ -36286,7 +36286,7 @@ rh(){var s=0,r=A.M(t.yp),q,p=2,o=[],n,m,l,k,j,i,h,g,f,e
 var $async$rh=A.I(function(a,b){if(a===1){o.push(b)
 s=p}while(true)switch(s){case 0:f=A.c([],t.s)
 j=1
-case 3:if(!(j<=6)){s=5
+case 3:if(!(j<=7)){s=5
 break}n=B.d.ld(B.h.j(j),2,"0")
 p=7
 s=10
@@ -36324,7 +36324,7 @@ s=A.Rr(r==null?s.c:r,null,B.Ns)
 r=this.e
 r===$&&A.b()
 return A.a3p(s,A.VW(new A.aai(this),r,t.yp))},
-TY(a){return A.j_(A.c([B.Fk,A.oJ(A.al4(new A.aag(this,a),6,B.ka))],t.E),B.ar,B.ax)}}
+TY(a){return A.j_(A.c([B.Fk,A.oJ(A.al4(new A.aag(this,a),7,B.ka))],t.E),B.ar,B.ax)}}
 A.aah.prototype={
 $1(a){var s=this.a.d
 s.toString
@@ -36456,7 +36456,7 @@ o=k.i(l,"post")
 if(o==null)o=""
 j=j.length!==0?j:"Sei un esperto critico cinematografico. In base alle seguenti risposte consiglia 5 film all'utente"
 o=o.length!==0?o:'Genera un array JSON con le seguenti informazioni per ciascun film:\n"title": Titolo del film in italiano\n"english_title": Titolo del film nella lingua inglese se esiste\n"description": Brevissima sinossi del film, in tono formale e distaccato. molto breve. Se possibile in una frase\n"posters": Un array di almeno 2 link a immagini del film (da fonti affidabili come Wikipedia, IMDb, Google Images)\n"wikipedia": Link alla pagina Wikipedia del film (se disponibile)\n"link": Link alla pagina JustWatch del film\n"score": punteggio che indica quanto il film \xe8 vicino ai gusti dell\'utente in una scala da 1 a 10\n"streaming": Un array delle piattaforme di streaming su cui il film \xe8 disponibile\n"awards": ["Lista di premi o riconoscimenti ricevuti, se disponibili"],\n"why_recommended": "Lunga e dettagliata spiegazione del motivo per cui il film \xe8 stato scelto,in base alle risposte date dall\'utente"\nPreferisci film insoliti e poco noti. Agggiugine anche uno lontano dai gusti dell\'utente e giustifica la scelta'
-n=j+"\n"+m+"\n"+o+'Ecco un esempio di struttura JSON desiderata:\n```json\n[\n {\n "title": "Forrest Gump",\n "description": "La vita di Forrest Gump, un uomo con un basso quoziente intellettivo, ma con un cuore grande e una capacit\xe0 straordinaria di trovarsi al centro di eventi storici.",\n "awards": "Oscar come miglir film",\n "why_recommended": "Film tocccante e sorprendente",\n"score": 7\n "posters": [\n   "https://pad.mymovies.it/filmclub/2006/08/130/locandina.jpg",\n  "https://it.wikipedia.org/wiki/Forrest_Gump#/media/File:Forrest_Gump.pngforrwest gump imdb locandina",\n   "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSE1N1bYBdDYLCyxgefqeRONXXlCMEAeSHq5nuL6IL0OEUJ7kUxr5nhibGxhZMXphks0MEo6LYRJfENsjmVfQnLwA/",\n   "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"\n ],\n "wikipedia": "https://it.wikipedia.org/wiki/Forrest_Gump",\n "link": "https://www.justwatch.com/it/film/forrest-gump",\n "streaming": ["Paramount+", "Amazon Prime Video"]\n },\n ...\n]\n***ISTRUZIONI SPECIALI:  deve essere prodotto solo il json finale, senza altri comenti senza carateri speciali e apici o doppi apici\n\n\n.Produci in ogni caso almeno 4 risultati\n aggiungi anche un film che non c\'entra e giustificane la scelta nel campo "why_recomended".\nOrdina i risultati in ordine decresente di score'
+n=j+"\n"+m+"\n"+o+'Ecco un esempio di struttura JSON desiderata:\n```json\n[\n {\n "title": "Forrest Gump",\n "description": "La vita di Forrest Gump, un uomo con un basso quoziente intellettivo, ma con un cuore grande e una capacit\xe0 straordinaria di trovarsi al centro di eventi storici.",\n "awards": "Oscar come miglir film",\n "why_recommended": "Film tocccante e sorprendente",\n"score": 7\n "posters": [\n   "https://pad.mymovies.it/filmclub/2006/08/130/locandina.jpg",\n  "https://it.wikipedia.org/wiki/Forrest_Gump#/media/File:Forrest_Gump.pngforrwest gump imdb locandina",\n   "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSE1N1bYBdDYLCyxgefqeRONXXlCMEAeSHq5nuL6IL0OEUJ7kUxr5nhibGxhZMXphks0MEo6LYRJfENsjmVfQnLwA/",\n   "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"\n ],\n "wikipedia": "https://it.wikipedia.org/wiki/Forrest_Gump",\n "link": "https://www.justwatch.com/it/film/forrest-gump",\n "streaming": ["Paramount+", "Amazon Prime Video"]\n },\n ...\n]\n***ISTRUZIONI SPECIALI:  deve essere prodotto solo il json finale, senza altri comenti senza carateri speciali e apici o doppi apici\n\n\n.Produci in ogni caso almeno 4 risultati\n aggiungi anche un film che non c\'entra e giustificane la scelta nel campo "why_recomended".\nOrdina i risultati in ordine decresente di score.\n***IMPORTANTE*** PRODUCI IN OGNI CASO UN JSON VALIDO. verifica il risultato due volte'
 A.cq("Prompt:\n "+n)
 q=n
 s=1
