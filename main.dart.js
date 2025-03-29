@@ -7625,7 +7625,7 @@ if(n==null)n="film"
 s=A.bC(q.h(b,"english_title"))
 if(s==null)s=n
 q=A.cG("[^a-zA-Z0-9]",!0,!1)
-r="assets/posters/"+(A.cQ(s,q,"_")+".jpg")
+r="assets/posters/"+(A.cQ(s,q,"_")+".jpg").toLowerCase()
 return A.Hi(new A.akf(n,r,a,b,p,o),A.ajr(r),t.y)},
 ajr(a){return A.aIw(a)},
 aIw(a){var s=0,r=A.O(t.y),q,p=2,o=[],n,m
