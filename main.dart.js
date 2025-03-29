@@ -7622,7 +7622,7 @@ return A.N($async$DX,r)},
 aKj(a,b){var s,r,q=J.a4(b),p=A.bA(q.h(b,"link")),o=A.bA(q.h(b,"wikipedia")),n=A.bA(q.h(b,"title"))
 if(n==null)n="film"
 s=A.bA(q.h(b,"english_title"))
-if(s==null)s="film"
+if(s==null)s=n
 q=A.cG("[^a-zA-Z0-9]",!0,!1)
 r="assets/posters/"+(A.hf(s,q,"_")+".jpg")
 return A.a_o(new A.ak7(n,r,a,b,p,o),A.ajk(r),t.y)},
