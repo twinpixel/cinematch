@@ -7610,7 +7610,7 @@ q=A.cs(q,".","_")
 s=A.cr("^_|_$",!0,!1)
 r="assets/posters/"+(B.d.o6(A.cs(q,s,""))+".jpg")
 return A.a2A(new A.anT(r,a,b),A.amk(r),t.y)},
-aNL(a,b){return A.a2A(new A.anS(a,b),A.anU("https://image.pollinations.ai/prompt/"+A.m9(2,"Poster for the movie: "+a+" of genre "+b,B.T,!1)+"?width=240&height=400&seed="+B.d.gt(a)+"&model=flux&negative_prompt=worst%20quality,%20blurry"),t.H3)},
+aNL(a,b){return A.a2A(new A.anS(a,b),A.anU("https://image.pollinations.ai/prompt/"+A.m9(2,"Poster for the movie: "+a+" of genre "+b+", with no text",B.T,!1)+"?width=240&height=400&seed="+B.d.gt(a)+"&model=flux&negative_prompt=worst%20quality,%20blurry"),t.H3)},
 anU(a){return A.aNN(a)},
 aNN(a){var s=0,r=A.K(t.H3),q,p=2,o=[],n,m,l,k,j
 var $async$anU=A.G(function(b,c){if(b===1){o.push(c)
