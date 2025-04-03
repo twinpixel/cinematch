@@ -6,7 +6,7 @@ Welcome to the live demo of CineMatch, a web application that leverages Artifici
 
 This application was developed with significant assistance from Large Language Models (LLMs), demonstrating the potential of AI in code generation and application development.
 
-**Source is available here: [https://twinpixel.github.io/cinematch/](https://twinpixel.github.io/cinematch/)**
+**Source is available here: [https://github.com/twinpixel/cine_match/](https://github.com/twinpixel/cine_match/)**
 
 ## Features
 
