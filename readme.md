@@ -2,6 +2,10 @@
 
 Welcome to the live demo of CineMatch, a web application that leverages Artificial Intelligence to recommend movies tailored to your personal tastes.
 
+**You can try a live demo of the application
+here: [https://twinpixel.github.io/cinematch/](https://twinpixel.github.io/cinematch/)**
+
+
 **⚠️ Disclaimer: This demo was created for experimental purposes only and should not be considered an example of best practices in software development.**
 
 This application was developed with significant assistance from Large Language Models (LLMs), demonstrating the potential of AI in code generation and application development.
